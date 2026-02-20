@@ -1,0 +1,370 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - link "easemytrip.com" [ref=e8] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "FLIGHTS" [ref=e14]:
+            - /url: https://www.easemytrip.com/flights.html
+            - generic [ref=e16]: FLIGHTS
+        - listitem [ref=e17]:
+          - link "HOTELS" [ref=e18]:
+            - /url: https://www.easemytrip.com/hotels/
+            - generic [ref=e20]: HOTELS
+        - listitem [ref=e21]:
+          - link "TRAINS" [ref=e22]:
+            - /url: https://www.easemytrip.com/railways/
+            - generic [ref=e24]: TRAINS
+        - listitem [ref=e25]:
+          - link "BUS" [ref=e26]:
+            - /url: https://www.easemytrip.com/bus/
+            - generic [ref=e28]: BUS
+        - listitem [ref=e29]:
+          - link "HOLIDAYS" [ref=e30]:
+            - /url: https://www.easemytrip.com/holidays/
+            - generic [ref=e32]: HOLIDAYS
+        - listitem [ref=e33]:
+          - link "CABS" [ref=e34]:
+            - /url: https://www.easemytrip.com/cabs/
+            - generic [ref=e36]: CABS
+        - listitem [ref=e37]:
+          - link "Activities" [ref=e38]:
+            - /url: https://www.easemytrip.com/activities/
+            - generic [ref=e40]: Activities
+        - listitem [ref=e41]:
+          - link "Visa" [ref=e42]:
+            - /url: https://www.easemytrip.com/visa-booking/
+            - generic [ref=e44]: Visa
+        - listitem [ref=e45] [cursor=pointer]:
+          - generic [ref=e48]: More
+          - generic:
+            - link "EaseMyTrip Cards Apply now to get Rewards" [ref=e49]:
+              - /url: https://www.emtcards.in/
+              - generic [ref=e51]:
+                - generic [ref=e52]: EaseMyTrip Cards
+                - generic [ref=e53]: Apply now to get Rewards
+            - link "EasyEloped For Romantic Getaways" [ref=e54]:
+              - /url: https://www.easyeloped.com/
+              - generic [ref=e56]:
+                - generic [ref=e57]: EasyEloped
+                - generic [ref=e58]: For Romantic Getaways
+            - link "EasyDarshan Spiritual Tours in India" [ref=e59]:
+              - /url: https://www.easydarshan.com/
+              - generic [ref=e61]:
+                - generic [ref=e62]: EasyDarshan
+                - generic [ref=e63]: Spiritual Tours in India
+            - link "Airport service Enjoy airport service" [ref=e64]:
+              - /url: https://www.easemytrip.com/airport-experience.html
+              - generic [ref=e66]:
+                - generic [ref=e67]: Airport service
+                - generic [ref=e68]: Enjoy airport service
+            - link "Gift Card Buy giftcards here" [ref=e69]:
+              - /url: https://www.easemytrip.com/giftcard/
+              - generic [ref=e71]:
+                - generic [ref=e72]: Gift Card
+                - generic [ref=e73]: Buy giftcards here
+            - link "Offers Check Best latest offers" [ref=e74]:
+              - /url: https://www.easemytrip.com/deals.html
+              - generic [ref=e76]:
+                - generic [ref=e77]: Offers
+                - generic [ref=e78]: Check Best latest offers
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - generic [ref=e82] [cursor=pointer]:
+            - generic [ref=e84]: Customer Service
+            - generic:
+              - generic [ref=e88]:
+                - generic [ref=e89]: Call Support
+                - generic [ref=e90]: "Tel : 011 - 43131313, 43030303"
+              - link "Mail Support Care@easemytrip.com" [ref=e91]:
+                - /url: mailto:care@easemytrip.com
+                - generic [ref=e93]:
+                  - generic [ref=e94]: Mail Support
+                  - generic [ref=e95]: Care@easemytrip.com
+          - img "Toggle contrast mode" [ref=e98] [cursor=pointer]
+        - generic [ref=e99] [cursor=pointer]:
+          - generic [ref=e100]: Login or Signup
+          - generic:
+            - generic [ref=e103]:
+              - generic [ref=e104]: Customer Login
+              - generic [ref=e105]: Login & check bookings
+            - link "Corporate Travel Login corporate account" [ref=e106]:
+              - /url: https://www.easemytrip.com/corporate/
+              - generic [ref=e108]:
+                - generic [ref=e109]: Corporate Travel
+                - generic [ref=e110]: Login corporate account
+            - link "Agent Login Login your agent account" [ref=e111]:
+              - /url: https://www.easemytrip.com/agents/
+              - generic [ref=e113]:
+                - generic [ref=e114]: Agent Login
+                - generic [ref=e115]: Login your agent account
+            - link "My Booking Manage your bookings here" [ref=e116]:
+              - /url: https://mybookings.easemytrip.com/
+              - generic [ref=e118]:
+                - generic [ref=e119]: My Booking
+                - generic [ref=e120]: Manage your bookings here
+    - navigation [ref=e121]:
+      - generic [ref=e123] [cursor=pointer]: ✖
+      - list [ref=e125]:
+        - listitem [ref=e126]:
+          - link "Features" [ref=e127]:
+            - /url: "#"
+            - text: Features
+        - listitem [ref=e129]:
+          - link "Services" [ref=e130]:
+            - /url: "#"
+            - text: Services
+        - listitem [ref=e132]:
+          - link "Portfolio" [ref=e133]:
+            - /url: "#"
+        - listitem [ref=e134]:
+          - link "Overview" [ref=e135]:
+            - /url: "#"
+        - listitem [ref=e136]:
+          - link "Shortcuts" [ref=e137]:
+            - /url: "#"
+        - listitem [ref=e138]:
+          - link "Feedback" [ref=e139]:
+            - /url: "#"
+  - link "Wedding Banner" [ref=e144]:
+    - /url: https://www.easemytrip.com/giftcard/holiday-gift-voucher/
+    - img "Wedding Banner" [ref=e145]
+  - generic:
+    - generic "Previous" [ref=e146] [cursor=pointer]:
+      - img "back arrow" [ref=e147]
+    - generic "Next" [ref=e148] [cursor=pointer]:
+      - img "forward arrow" [ref=e149]
+  - generic [ref=e150]:
+    - generic [ref=e151]:
+      - generic [ref=e152] [cursor=pointer]:
+        - generic [ref=e153]:
+          - img "Check Balance" [ref=e155]
+          - generic [ref=e156]: Check Balance
+        - img "next" [ref=e158]
+      - generic [ref=e159] [cursor=pointer]:
+        - generic [ref=e160]:
+          - img "Redeem Icon" [ref=e162]
+          - generic [ref=e163]: How To Redeem
+        - img "frwd arw" [ref=e165]
+    - generic [ref=e166]:
+      - generic [ref=e167]:
+        - heading "Buy Most Popular eGift Cards" [level=3] [ref=e168]
+        - paragraph [ref=e169]: Personalized gift vouchers delivered online & redeemable at EaseMyTrip
+      - generic [ref=e170]:
+        - generic [ref=e171]:
+          - button "voucher icon All" [ref=e172] [cursor=pointer]:
+            - img "voucher icon" [ref=e174]
+            - text: All
+          - button "occasion Occasional" [ref=e175] [cursor=pointer]:
+            - img "occasion" [ref=e177]
+            - text: Occasional
+          - button "festival Festival" [ref=e178] [cursor=pointer]:
+            - img "festival" [ref=e180]
+            - text: Festival
+          - button "loved Loved Ones" [ref=e181] [cursor=pointer]:
+            - img "loved" [ref=e183]
+            - text: Loved Ones
+        - generic [ref=e186]:
+          - generic "New Year E-GiftCard" [ref=e187] [cursor=pointer]:
+            - img "NewYear" [ref=e189]
+            - generic [ref=e191]:
+              - text: New Year Gift Card
+              - img "ficon" [ref=e193]
+          - generic "Wedding E-GiftCard" [ref=e194] [cursor=pointer]:
+            - img "Wedding" [ref=e196]
+            - generic [ref=e198]:
+              - text: Wedding Gift Card
+              - img "icn3" [ref=e200]
+          - generic "Christmas E-GiftCard" [ref=e201] [cursor=pointer]:
+            - img "Christmas" [ref=e203]
+            - generic [ref=e205]:
+              - text: Christmas Gift Card
+              - img "icn5" [ref=e207]
+          - generic "Holiday E-GiftCard" [ref=e208] [cursor=pointer]:
+            - img "Holiday Card" [ref=e210]
+            - generic [ref=e212]:
+              - text: Holidays Gift Card
+              - img "icn" [ref=e214]
+          - generic "EaseMyTrip E-GiftCard" [ref=e215] [cursor=pointer]:
+            - img "EaseMyTrip" [ref=e217]
+            - generic [ref=e219]:
+              - text: EaseMyTrip Gift Card
+              - img "icn11" [ref=e221]
+          - generic "Birthday E-GiftCard" [ref=e222] [cursor=pointer]:
+            - img "Birthday Card" [ref=e224]
+            - generic [ref=e226]:
+              - text: Birthday Gift Card
+              - img "icn2" [ref=e228]
+          - generic "Anniversary E-GiftCard" [ref=e229] [cursor=pointer]:
+            - img "Anniversary Card" [ref=e231]
+            - generic [ref=e233]:
+              - text: Anniversary Gift Card
+              - img "icn6" [ref=e235]
+          - generic "Hotel E-GiftCard" [ref=e236] [cursor=pointer]:
+            - img "Hotel" [ref=e238]
+            - generic [ref=e240]:
+              - text: Hotel Gift Card
+              - img "icn9" [ref=e242]
+          - generic "Thank You E-GiftCard" [ref=e243] [cursor=pointer]:
+            - img "Thank You Card" [ref=e245]
+            - generic [ref=e247]:
+              - text: Thank You Gift Card
+              - img "icn8" [ref=e249]
+          - generic "Congratulations E-GiftCard" [ref=e250] [cursor=pointer]:
+            - img "congratulations" [ref=e252]
+            - generic [ref=e254]:
+              - text: Congratulations Gift Card
+              - img "icn12" [ref=e256]
+          - generic "Valentine's Day E-GiftCard" [ref=e257] [cursor=pointer]:
+            - img "valentins" [ref=e259]
+            - generic [ref=e261]:
+              - text: Valentine's Gift Card
+              - img "icn10" [ref=e263]
+          - generic "Holi E-GiftCard" [ref=e264] [cursor=pointer]:
+            - img "Holi Card" [ref=e266]
+            - generic [ref=e268]:
+              - text: Holi Gift Card
+              - img "icn14" [ref=e270]
+          - generic "Eid E-GiftCard" [ref=e271] [cursor=pointer]:
+            - img "Eid Card" [ref=e273]
+            - generic [ref=e275]:
+              - text: Eid Gift Card
+              - img "icn15" [ref=e277]
+          - generic "Rakshabandhan E-GiftCard" [ref=e278] [cursor=pointer]:
+            - img "Rakhi Card" [ref=e280]
+            - generic [ref=e282]:
+              - text: Rakhi Gift Card
+              - img "icn7" [ref=e284]
+          - generic "Diwali E-GiftCard" [ref=e285] [cursor=pointer]:
+            - img "Diwali Card" [ref=e287]
+            - generic [ref=e289]:
+              - text: Diwali Gift Card
+              - img "icn4" [ref=e291]
+          - generic "Bhai Dooj E-GiftCard" [ref=e292] [cursor=pointer]:
+            - img "bhaidooj" [ref=e294]
+            - generic [ref=e296]:
+              - text: Bhai Dooj Gift Card
+              - img "icn13" [ref=e298]
+          - generic "Qorum E-GiftCard" [ref=e299] [cursor=pointer]:
+            - img "Qorum Card" [ref=e301]
+            - generic [ref=e303]:
+              - text: Qorum Gift Card
+              - img "icn14" [ref=e305]
+    - generic [ref=e306]:
+      - heading "Easemytrip Gift Card! Perfect Gift For Every Occasion" [level=4] [ref=e307]
+      - paragraph [ref=e308]:
+        - text: Gifts make all of us happy. Buying flowers, chocolates, showpieces, stuff toys, clothes and sweets for gift purpose has become very common. Your choice must be unique in case you are looking for an incredible gift to make your loved ones and special ones happy. There cannot be a better gift than gifting a vacation with lots of beautiful memories. Isn’t it? Getting confused? EaseMyTrip presents travel Gift Cards and E-Gift Vouchers for every special occasion that you can gift your loved ones. This will be an ideal gift for your best friend, brother, sister, and children to cherish the beautiful memories for a lifetime.
+        - text: Here, you can choose any destination and hotel to book in advance and gifting it to your loved ones. It will be the best way to express your love, care, and affection for which your loved ones will remember you. Gift your loved ones a surprise of precious memories that they will make during their journey. Bring a smile on their faces and fill their life with lots of colors on a special occasion. Send E-Gift Card vouchers now!
+    - generic [ref=e309]:
+      - generic [ref=e310]: FAQ's
+      - generic [ref=e312]:
+        - generic [ref=e314] [cursor=pointer]: What is EaseMyTrip Gift Card?
+        - generic [ref=e316] [cursor=pointer]: What are the types of EaseMyTrip Gift Card?
+        - generic [ref=e318] [cursor=pointer]: How can I buy an EaseMyTrip Gift Card?
+        - generic [ref=e320] [cursor=pointer]: What is the validity of EaseMyTrip Gift Cards?
+        - generic [ref=e322] [cursor=pointer]: I had applied my Gift Card(s) but the transaction failed. Amount has been deducted from the card.
+        - generic [ref=e324] [cursor=pointer]: How will I receive the Gift Cards?
+        - generic [ref=e326] [cursor=pointer]: How to redeem EaseMyTrip Gift Card?
+        - generic [ref=e328] [cursor=pointer]: Can I use gift card to book travel on EMT Mobile App?
+        - generic [ref=e330] [cursor=pointer]: Can I redeem multiple EaseMyTrip Gift Card in 1 transaction?
+        - generic [ref=e332] [cursor=pointer]: What happens if my booking amount is lesser than the Gift Card amount?
+        - generic [ref=e334] [cursor=pointer]: What happens if I cancel my booking?
+        - generic [ref=e336] [cursor=pointer]: If I cancel the Gift Card, will I get my refund?
+  - generic [ref=e338]:
+    - generic [ref=e341]:
+      - generic [ref=e342]:
+        - list [ref=e344]:
+          - button "OUR OFFERINGS" [ref=e345] [cursor=pointer]
+          - button "QUICK LINKS" [ref=e346] [cursor=pointer]
+          - button "POPULAR DESTINATION" [ref=e347] [cursor=pointer]
+          - button "INTERNATIONAL DESTINATION" [ref=e348] [cursor=pointer]
+          - button "POPULAR AIRLINE" [ref=e349] [cursor=pointer]
+          - button "CONNECT WITH US" [ref=e350] [cursor=pointer]
+          - button "OFFERS" [ref=e351] [cursor=pointer]
+          - button "EMT INSIGHTS" [ref=e352] [cursor=pointer]
+          - button "MEDIA" [ref=e353] [cursor=pointer]
+          - link "INVESTOR RELATIONS" [ref=e354] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/investor-relations.html
+          - link "CURRENT OPENINGS" [ref=e355] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/career.html
+        - generic [ref=e357]:
+          - paragraph [ref=e358]: Make your travel easy with a wide range of products and services.
+          - list [ref=e360]:
+            - listitem [ref=e361]:
+              - link "Flight" [ref=e362]:
+                - /url: https://www.easemytrip.com/flights/
+            - listitem [ref=e363]:
+              - link "Hotels" [ref=e364]:
+                - /url: https://www.easemytrip.com/hotels/
+            - listitem [ref=e365]:
+              - link "Trains" [ref=e366]:
+                - /url: https://www.easemytrip.com/railways/
+            - listitem [ref=e367]:
+              - link "Holidays" [ref=e368]:
+                - /url: https://www.easemytrip.com/holidays/
+            - listitem [ref=e369]:
+              - link "Bus" [ref=e370]:
+                - /url: https://www.easemytrip.com/bus/
+            - listitem [ref=e371]:
+              - link "Flight Status" [ref=e372]:
+                - /url: https://www.easemytrip.com/flights/flight-status/
+            - listitem [ref=e373]:
+              - link "Cabs" [ref=e374]:
+                - /url: https://www.easemytrip.com/cabs/
+            - listitem [ref=e375]:
+              - link "Airlines" [ref=e376]:
+                - /url: https://www.easemytrip.com/directory/airlines.html
+            - listitem [ref=e377]:
+              - link "Airports" [ref=e378]:
+                - /url: https://www.easemytrip.com/directory/airports-in-india.html
+            - listitem [ref=e379]:
+              - link "Travel Guides" [ref=e380]:
+                - /url: https://www.easemytrip.com/travel-guides.html
+            - listitem [ref=e381]:
+              - link "Check PNR Status" [ref=e382]:
+                - /url: https://www.easemytrip.com/railways/pnr-status/
+            - listitem [ref=e383]:
+              - link "EMT PRO" [ref=e384]:
+                - /url: https://www.easemytrip.com/JoinEMTPro
+            - listitem [ref=e385]:
+              - link "Activities" [ref=e386]:
+                - /url: https://www.easemytrip.com/activities/
+            - listitem [ref=e387]:
+              - link "Travel Updates" [ref=e388]:
+                - /url: https://www.easemytrip.com/travel-updates.html
+            - listitem [ref=e389]:
+              - link "Corporate travel" [ref=e390]:
+                - /url: https://www.easemytrip.com/corporate
+            - listitem [ref=e391]:
+              - link "Blog" [ref=e392]:
+                - /url: https://www.easemytrip.com/blog/
+            - listitem [ref=e393]:
+              - link "Flight Check-in" [ref=e394]:
+                - /url: https://www.easemytrip.com/flights/web-check-in/
+            - listitem [ref=e395]:
+              - link "VIP Cabs" [ref=e396]:
+                - /url: https://www.easemytrip.com/bookvipcabs.html
+      - generic [ref=e397]:
+        - generic [ref=e398]:
+          - img "EaseMyTrip.com" [ref=e400]
+          - paragraph [ref=e402]: EaseMyTrip offers 'End to End' travel solutions including air tickets for more than 400 international and domestic airlines, hotel bookings for nearly 1 million hotels in India and abroad, cab booking with 4000+ cab operators, bus tickets with 2000+ bus operators, and railway tickets in India for all major cities.
+        - generic [ref=e403]:
+          - generic [ref=e404]: DOWNLOAD EASEMYTRIP APP
+          - generic [ref=e406]:
+            - link "Download on Android" [ref=e408]:
+              - /url: //play.google.com/store/apps/details?id=com.easemytrip.android
+              - img "Download on Android" [ref=e409]
+            - link "Download on IOS" [ref=e411]:
+              - /url: https://itunes.apple.com/in/app/easemytrip-flight-booking/id1053030595?mt=8
+              - img "Download on IOS" [ref=e412]
+        - generic [ref=e413]:
+          - generic [ref=e414]: SCAN QR CODE
+          - img [ref=e418]
+    - generic [ref=e419]:
+      - generic [ref=e420]: Copyright © 2026 EaseMyTrip
+      - img [ref=e422]
+```

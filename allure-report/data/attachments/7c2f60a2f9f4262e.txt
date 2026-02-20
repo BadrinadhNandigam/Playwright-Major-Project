@@ -1,0 +1,12 @@
+All cab prices: [ 10322 ]
+Lowest cab price: 10322
+Max adults allowed = 12
+Total clicks performed = 10
+List for the numbers of adults:  [
+   2, 3, 4,  5,  6,
+   7, 8, 9, 10, 11,
+  12
+]
+Total Clicks for add Rooms: 8
+Total rooms added: 9
+Email error message: Email address is required and it should be valid.
