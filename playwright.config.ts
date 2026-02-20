@@ -39,7 +39,7 @@ export default defineConfig({
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
     launchOptions:{
-      slowMo:100
+      slowMo:300
     }
 
   },
@@ -51,39 +51,39 @@ export default defineConfig({
       use: { ...devices['Desktop Chrome'] },
     },
 
-    // {
-    //   name: 'firefox',
-    //   use: { ...devices['Desktop Firefox'] },
-    // },
+    {
+      name: 'firefox',
+      use: { ...devices['Desktop Firefox'] },
+    },
 
     {
       name: 'webkit',
       use: { ...devices['Desktop Safari'] },
     },
-    {
-      name: 'smoke',
-      testMatch: /.*\.spec\.ts/,
-      grep: /@smoke/,
-      retries: 1,
-      timeout: 200_000,
-      use: { ...devices['Desktop Chrome'] },
-    },
-    {
-      name: 'sanity',
-      testMatch: /.*\.spec\.ts/,
-      grep: /@sanity/,
-      retries: 1,
-      timeout: 200_000,
-      use: { ...devices['Desktop Chrome'] },
-    },
-    {
-      name: 'regression',
-      testMatch: /.*\.spec\.ts/,
-      grep: /@regression/,
-      retries: 1,
-      timeout: 200_000,
-      use: { ...devices['Desktop Chrome'] },
-    },
+    // {
+    //   name: 'smoke',
+    //   testMatch: /.*\.spec\.ts/,
+    //   grep: /@smoke/,
+    //   retries: 1,
+    //   timeout: 200_000,
+    //   use: { ...devices['Desktop Chrome'] },
+    // },
+    // {
+    //   name: 'sanity',
+    //   testMatch: /.*\.spec\.ts/,
+    //   grep: /@sanity/,
+    //   retries: 1,
+    //   timeout: 200_000,
+    //   use: { ...devices['Desktop Chrome'] },
+    // },
+    // {
+    //   name: 'regression',
+    //   testMatch: /.*\.spec\.ts/,
+    //   grep: /@regression/,
+    //   retries: 1,
+    //   timeout: 200_000,
+    //   use: { ...devices['Desktop Chrome'] },
+    // },
  
 
     /* Test against mobile viewports. */

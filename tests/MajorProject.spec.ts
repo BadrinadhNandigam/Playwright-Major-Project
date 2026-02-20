@@ -6,7 +6,7 @@ import { CabsPage } from "../pages/CabsPage";
 import { HotelsPage } from "../pages/HotelsPage";
 import { GiftCardPage } from "../pages/GiftCardPage";
 
-test("EasyMyTrip - data-driven (POM) @smoke @sanity @regression", async ({ browser }) => {
+test("EasyMyTrip - data-driven (POM)", async ({ browser }) => {
   const context = await browser.newContext();
   const page = await context.newPage();
 

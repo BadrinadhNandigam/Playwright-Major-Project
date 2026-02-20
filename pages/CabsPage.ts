@@ -36,11 +36,11 @@ export class CabsPage {
 
   async fillRoute() {
     await this.page.locator(this.c.selectors.fromInput).click();
-    await this.page.getByRole("textbox", { name: "From" }).pressSequentially(this.c.from);
+    await this.page.getByRole("textbox", { name: "From" }).pressSequentially(this.c.from,{delay:200});
     await this.page.getByText(this.c.from, { exact: true }).click();
     await this.page.waitForLoadState('domcontentloaded');
     await this.page.locator(this.c.selectors.toInput).click();
-    await this.page.getByRole("textbox", { name: "To" }).pressSequentially(this.c.to, { delay: 150 });
+    await this.page.getByRole("textbox", { name: "To" }).pressSequentially(this.c.to, { delay: 350 });
     await this.page.getByText(this.c.to).click();
   }
 

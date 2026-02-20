@@ -1,0 +1,826 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic:
+    - generic [ref=e5]:
+      - link "easemytrip.com" [ref=e7] [cursor=pointer]:
+        - /url: /
+      - list [ref=e11]:
+        - listitem [ref=e12]:
+          - link "FLIGHTS" [ref=e13] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/flights.html
+            - generic [ref=e15]: FLIGHTS
+        - listitem [ref=e16]:
+          - link "HOTELS" [ref=e17] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/hotels/
+            - generic [ref=e19]: HOTELS
+        - listitem [ref=e20]:
+          - link "TRAINS" [ref=e21] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/railways/
+            - generic [ref=e23]: TRAINS
+        - listitem [ref=e24]:
+          - link "BUS" [ref=e25] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/bus/
+            - generic [ref=e27]: BUS
+        - listitem [ref=e28]:
+          - link "HOLIDAYS" [ref=e29] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/holidays/
+            - generic [ref=e31]: HOLIDAYS
+        - listitem [ref=e32]:
+          - link "CABS" [ref=e33] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/
+            - generic [ref=e35]: CABS
+        - listitem [ref=e36]:
+          - link "Activities" [ref=e37] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/activities/
+            - generic [ref=e39]: Activities
+        - listitem [ref=e40]:
+          - link "Visa" [ref=e41] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/visa-booking/
+            - generic [ref=e43]: Visa
+        - listitem [ref=e44] [cursor=pointer]:
+          - generic [ref=e47]: More
+          - generic:
+            - link "EaseMyTrip Cards Apply now to get Rewards" [ref=e48]:
+              - /url: https://www.emtcards.in/
+              - generic [ref=e50]:
+                - generic [ref=e51]: EaseMyTrip Cards
+                - generic [ref=e52]: Apply now to get Rewards
+            - link "EasyEloped For Romantic Getaways" [ref=e53]:
+              - /url: https://www.easyeloped.com
+              - generic [ref=e55]:
+                - generic [ref=e56]: EasyEloped
+                - generic [ref=e57]: For Romantic Getaways
+            - link "EasyDarshan Spiritual Tours in India" [ref=e58]:
+              - /url: https://www.easydarshan.com
+              - generic [ref=e60]:
+                - generic [ref=e61]: EasyDarshan
+                - generic [ref=e62]: Spiritual Tours in India
+            - link "Airport Experience Enjoy airport service" [ref=e63]:
+              - /url: https://www.easemytrip.com/airport-experience.html
+              - generic [ref=e65]:
+                - generic [ref=e66]: Airport Experience
+                - generic [ref=e67]: Enjoy airport service
+            - link "Gift Card Buy giftcards here" [ref=e68]:
+              - /url: https://www.easemytrip.com/giftcard
+              - generic [ref=e70]:
+                - generic [ref=e71]: Gift Card
+                - generic [ref=e72]: Buy giftcards here
+            - link "Offers Check Best latest offers" [ref=e73]:
+              - /url: https://www.easemytrip.com/deals.html
+              - generic [ref=e75]:
+                - generic [ref=e76]: Offers
+                - generic [ref=e77]: Check Best latest offers
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e81] [cursor=pointer]:
+            - generic [ref=e83]: Customer Service
+            - generic:
+              - generic [ref=e87]:
+                - generic [ref=e88]: Call Support
+                - generic [ref=e89]: "Tel : 011 - 43131313, 43030303"
+              - link "Mail Support Care@easemytrip.com" [ref=e90]:
+                - /url: mailto:care@easemytrip.com
+                - generic [ref=e92]:
+                  - generic [ref=e93]: Mail Support
+                  - generic [ref=e94]: Care@easemytrip.com
+          - img "Toggle contrast mode" [ref=e97] [cursor=pointer]
+        - generic [ref=e98] [cursor=pointer]:
+          - generic [ref=e99]: Login or Signup
+          - generic:
+            - generic [ref=e102]:
+              - generic [ref=e103]: Customer Login
+              - generic [ref=e104]: Login & check bookings
+            - link "Corporate Travel Login corporate account" [ref=e105]:
+              - /url: https://www.easemytrip.com/corporate/
+              - generic [ref=e107]:
+                - generic [ref=e108]: Corporate Travel
+                - generic [ref=e109]: Login corporate account
+            - link "Agent Login Login your agent account" [ref=e110]:
+              - /url: https://www.easemytrip.com/agents/
+              - generic [ref=e112]:
+                - generic [ref=e113]: Agent Login
+                - generic [ref=e114]: Login your agent account
+            - link "My Booking Manage your bookings here" [ref=e115]:
+              - /url: https://mybookings.easemytrip.com/
+              - generic [ref=e117]:
+                - generic [ref=e118]: My Booking
+                - generic [ref=e119]: Manage your bookings here
+    - navigation [ref=e120]:
+      - generic [ref=e121]:
+        - generic [ref=e122] [cursor=pointer]: ✖
+        - img "EMT logo" [ref=e124] [cursor=pointer]
+      - list [ref=e125]:
+        - listitem [ref=e126]:
+          - link "Features" [ref=e127] [cursor=pointer]:
+            - /url: "#"
+            - text: Features
+        - listitem [ref=e129]:
+          - link "Services" [ref=e130] [cursor=pointer]:
+            - /url: "#"
+            - text: Services
+        - listitem [ref=e132]:
+          - link "Portfolio" [ref=e133] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e134]:
+          - link "Overview" [ref=e135] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e136]:
+          - link "Shortcuts" [ref=e137] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e138]:
+          - link "Feedback" [ref=e139] [cursor=pointer]:
+            - /url: "#"
+  - generic [ref=e140]:
+    - generic [ref=e143]:
+      - generic [ref=e144]:
+        - list [ref=e146]:
+          - listitem [ref=e147] [cursor=pointer]:
+            - generic [ref=e148]: Airport Transfer
+          - listitem [ref=e149] [cursor=pointer]:
+            - generic [ref=e150]: Outstation
+          - listitem [ref=e151] [cursor=pointer]:
+            - generic [ref=e152]: Hourly
+        - heading "Book Online Cab" [level=1] [ref=e153]
+      - generic [ref=e155]:
+        - generic [ref=e156] [cursor=pointer]:
+          - generic [ref=e157]: Airport Transfer
+          - generic [ref=e158]: Airport
+          - generic [ref=e159]: Pick Up
+        - generic [ref=e162] [cursor=pointer]:
+          - generic [ref=e163]: From
+          - generic [ref=e164]: Enter Pick-up Location
+        - generic [ref=e167] [cursor=pointer]:
+          - generic [ref=e168]: To
+          - generic [ref=e169]: Enter Drop Location
+        - generic [ref=e171]:
+          - generic [ref=e172] [cursor=pointer]: Pick-Up Date & Time
+          - textbox "Select Date" [ref=e176] [cursor=pointer]: 22 Feb 2026
+          - generic [ref=e177] [cursor=pointer]: 10:00 AM
+        - generic [ref=e178] [cursor=pointer]: SEARCH
+      - generic [ref=e179] [cursor=pointer]:
+        - text: Overseas
+        - checkbox "Overseas" [ref=e180]
+    - generic [ref=e182]:
+      - generic [ref=e183]:
+        - generic [ref=e186]: Exclusive Offers
+        - generic [ref=e188]:
+          - generic [ref=e189]:
+            - link "Self-Drive Car Rentals Heading on an International Trip? Self-Drive Book Now to Pick Up Your Car at the Airport & Return It Before You Fly Back. Book Now" [ref=e191] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/self-drive-car-rental/
+              - generic [ref=e192]:
+                - generic [ref=e193]:
+                  - generic [ref=e194]: Self-Drive Car Rentals
+                  - generic [ref=e195]:
+                    - text: Heading on an
+                    - text: International Trip?
+                - img "Self-Drive" [ref=e197]
+              - generic [ref=e198]: Book Now to Pick Up Your Car at the Airport & Return It Before You Fly Back.
+              - generic [ref=e199]: Book Now
+            - 'link "Enjoy Offer Deal of the Day Use Code: EASEDAY Copy Code Best Deal Enjoy Different Deals Each Day with EaseMyTrip Valid till: 31st Mar, 2026" [ref=e201] [cursor=pointer]':
+              - /url: https://www.easemytrip.com/offers/cab-easeday.html
+              - generic [ref=e202]:
+                - generic [ref=e203]:
+                  - generic [ref=e204]: Enjoy Offer
+                  - generic [ref=e205]: Deal of the Day
+                  - generic [ref=e207]:
+                    - generic [ref=e208]: "Use Code:"
+                    - generic [ref=e209]:
+                      - generic [ref=e210]: EASEDAY
+                      - img "Copy Code" [ref=e212]
+                - img "Best Deal" [ref=e214]
+              - generic [ref=e215]: Enjoy Different Deals Each Day with EaseMyTrip
+              - generic [ref=e216]: "Valid till: 31st Mar, 2026"
+            - link "Now Travel Easily Pay Just 15% Now Rest at Drop-Off Partial Pay Pay 15% Now on Cab Bookings, Pay the Rest after Drop-Off to the Driver Book Now" [ref=e218] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/offers/partial-payment.html
+              - generic [ref=e219]:
+                - generic [ref=e220]:
+                  - generic [ref=e221]: Now Travel Easily
+                  - generic [ref=e222]: Pay Just 15% Now
+                  - generic [ref=e223]: Rest at Drop-Off
+                - img "Partial Pay" [ref=e225]
+              - generic [ref=e226]: Pay 15% Now on Cab Bookings, Pay the Rest after Drop-Off to the Driver
+              - generic [ref=e227]: Book Now
+            - 'link "Grab 10% OFF* on Hourly Rentals Use Code: EMTHOURLY Copy Code Hourly Rentals Avail 10% OFF* on hourly rentals with EaseMyTrip cab bookings Valid till: 31st Mar, 2026" [ref=e229] [cursor=pointer]':
+              - /url: https://www.easemytrip.com/offers/hourly-rental-cabs.html
+              - generic [ref=e230]:
+                - generic [ref=e231]:
+                  - generic [ref=e232]: Grab 10% OFF* on
+                  - generic [ref=e233]: Hourly Rentals
+                  - generic [ref=e235]:
+                    - generic [ref=e236]: "Use Code:"
+                    - generic [ref=e237]:
+                      - generic [ref=e238]: EMTHOURLY
+                      - img "Copy Code" [ref=e240]
+                - img "Hourly Rentals" [ref=e242]
+              - generic [ref=e243]: Avail 10% OFF* on hourly rentals with EaseMyTrip cab bookings
+              - generic [ref=e244]: "Valid till: 31st Mar, 2026"
+            - 'link "Flat 10% OFF* on Outstation Cabs Use Code: EMTCAB Copy Code Outstation Cabs Get flat 10% OFF* on ride with outstation one way or round trip cab bookings Valid till: 31st Mar, 2026" [ref=e246] [cursor=pointer]':
+              - /url: https://www.easemytrip.com/offers/cab-deal.html
+              - generic [ref=e247]:
+                - generic [ref=e248]:
+                  - generic [ref=e249]: Flat 10% OFF* on
+                  - generic [ref=e250]: Outstation Cabs
+                  - generic [ref=e252]:
+                    - generic [ref=e253]: "Use Code:"
+                    - generic [ref=e254]:
+                      - generic [ref=e255]: EMTCAB
+                      - img "Copy Code" [ref=e257]
+                - img "Outstation Cabs" [ref=e259]
+              - generic [ref=e260]: Get flat 10% OFF* on ride with outstation one way or round trip cab bookings
+              - generic [ref=e261]: "Valid till: 31st Mar, 2026"
+            - link "Self-Drive Car Rentals Heading on an International Trip? Self-Drive Book Now to Pick Up Your Car at the Airport & Return It Before You Fly Back. Book Now" [ref=e263] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/self-drive-car-rental/
+              - generic [ref=e264]:
+                - generic [ref=e265]:
+                  - generic [ref=e266]: Self-Drive Car Rentals
+                  - generic [ref=e267]:
+                    - text: Heading on an
+                    - text: International Trip?
+                - img "Self-Drive" [ref=e269]
+              - generic [ref=e270]: Book Now to Pick Up Your Car at the Airport & Return It Before You Fly Back.
+              - generic [ref=e271]: Book Now
+            - 'link "Enjoy Offer Deal of the Day Use Code: EASEDAY Copy Code Best Deal Enjoy Different Deals Each Day with EaseMyTrip Valid till: 31st Mar, 2026" [ref=e273] [cursor=pointer]':
+              - /url: https://www.easemytrip.com/offers/cab-easeday.html
+              - generic [ref=e274]:
+                - generic [ref=e275]:
+                  - generic [ref=e276]: Enjoy Offer
+                  - generic [ref=e277]: Deal of the Day
+                  - generic [ref=e279]:
+                    - generic [ref=e280]: "Use Code:"
+                    - generic [ref=e281]:
+                      - generic [ref=e282]: EASEDAY
+                      - img "Copy Code" [ref=e284]
+                - img "Best Deal" [ref=e286]
+              - generic [ref=e287]: Enjoy Different Deals Each Day with EaseMyTrip
+              - generic [ref=e288]: "Valid till: 31st Mar, 2026"
+            - link "Now Travel Easily Pay Just 15% Now Rest at Drop-Off Partial Pay Pay 15% Now on Cab Bookings, Pay the Rest after Drop-Off to the Driver Book Now" [ref=e290] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/offers/partial-payment.html
+              - generic [ref=e291]:
+                - generic [ref=e292]:
+                  - generic [ref=e293]: Now Travel Easily
+                  - generic [ref=e294]: Pay Just 15% Now
+                  - generic [ref=e295]: Rest at Drop-Off
+                - img "Partial Pay" [ref=e297]
+              - generic [ref=e298]: Pay 15% Now on Cab Bookings, Pay the Rest after Drop-Off to the Driver
+              - generic [ref=e299]: Book Now
+            - 'link "Grab 10% OFF* on Hourly Rentals Use Code: EMTHOURLY Copy Code Hourly Rentals Avail 10% OFF* on hourly rentals with EaseMyTrip cab bookings Valid till: 31st Mar, 2026" [ref=e301] [cursor=pointer]':
+              - /url: https://www.easemytrip.com/offers/hourly-rental-cabs.html
+              - generic [ref=e302]:
+                - generic [ref=e303]:
+                  - generic [ref=e304]: Grab 10% OFF* on
+                  - generic [ref=e305]: Hourly Rentals
+                  - generic [ref=e307]:
+                    - generic [ref=e308]: "Use Code:"
+                    - generic [ref=e309]:
+                      - generic [ref=e310]: EMTHOURLY
+                      - img "Copy Code" [ref=e312]
+                - img "Hourly Rentals" [ref=e314]
+              - generic [ref=e315]: Avail 10% OFF* on hourly rentals with EaseMyTrip cab bookings
+              - generic [ref=e316]: "Valid till: 31st Mar, 2026"
+            - 'link "Flat 10% OFF* on Outstation Cabs Use Code: EMTCAB Copy Code Outstation Cabs Get flat 10% OFF* on ride with outstation one way or round trip cab bookings Valid till: 31st Mar, 2026" [ref=e318] [cursor=pointer]':
+              - /url: https://www.easemytrip.com/offers/cab-deal.html
+              - generic [ref=e319]:
+                - generic [ref=e320]:
+                  - generic [ref=e321]: Flat 10% OFF* on
+                  - generic [ref=e322]: Outstation Cabs
+                  - generic [ref=e324]:
+                    - generic [ref=e325]: "Use Code:"
+                    - generic [ref=e326]:
+                      - generic [ref=e327]: EMTCAB
+                      - img "Copy Code" [ref=e329]
+                - img "Outstation Cabs" [ref=e331]
+              - generic [ref=e332]: Get flat 10% OFF* on ride with outstation one way or round trip cab bookings
+              - generic [ref=e333]: "Valid till: 31st Mar, 2026"
+            - link "Self-Drive Car Rentals Heading on an International Trip? Self-Drive Book Now to Pick Up Your Car at the Airport & Return It Before You Fly Back. Book Now" [ref=e335] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/self-drive-car-rental/
+              - generic [ref=e336]:
+                - generic [ref=e337]:
+                  - generic [ref=e338]: Self-Drive Car Rentals
+                  - generic [ref=e339]:
+                    - text: Heading on an
+                    - text: International Trip?
+                - img "Self-Drive" [ref=e341]
+              - generic [ref=e342]: Book Now to Pick Up Your Car at the Airport & Return It Before You Fly Back.
+              - generic [ref=e343]: Book Now
+            - 'link "Enjoy Offer Deal of the Day Use Code: EASEDAY Copy Code Best Deal Enjoy Different Deals Each Day with EaseMyTrip Valid till: 31st Mar, 2026" [ref=e345] [cursor=pointer]':
+              - /url: https://www.easemytrip.com/offers/cab-easeday.html
+              - generic [ref=e346]:
+                - generic [ref=e347]:
+                  - generic [ref=e348]: Enjoy Offer
+                  - generic [ref=e349]: Deal of the Day
+                  - generic [ref=e351]:
+                    - generic [ref=e352]: "Use Code:"
+                    - generic [ref=e353]:
+                      - generic [ref=e354]: EASEDAY
+                      - img "Copy Code" [ref=e356]
+                - img "Best Deal" [ref=e358]
+              - generic [ref=e359]: Enjoy Different Deals Each Day with EaseMyTrip
+              - generic [ref=e360]: "Valid till: 31st Mar, 2026"
+            - link "Now Travel Easily Pay Just 15% Now Rest at Drop-Off Partial Pay Pay 15% Now on Cab Bookings, Pay the Rest after Drop-Off to the Driver Book Now" [ref=e362] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/offers/partial-payment.html
+              - generic [ref=e363]:
+                - generic [ref=e364]:
+                  - generic [ref=e365]: Now Travel Easily
+                  - generic [ref=e366]: Pay Just 15% Now
+                  - generic [ref=e367]: Rest at Drop-Off
+                - img "Partial Pay" [ref=e369]
+              - generic [ref=e370]: Pay 15% Now on Cab Bookings, Pay the Rest after Drop-Off to the Driver
+              - generic [ref=e371]: Book Now
+          - button "Next slide" [ref=e372] [cursor=pointer]
+          - button "Previous slide" [ref=e373] [cursor=pointer]
+        - link "View All" [ref=e375] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/offers/cab.html?new
+      - generic [ref=e378]:
+        - generic [ref=e379]:
+          - paragraph [ref=e380]: Upto 15% Discount
+          - heading "City To City-Outstation Cabs" [level=2] [ref=e381]
+          - paragraph [ref=e382]: Enjoy Best Price Guarantee, professional services, timely pick-up & drop-off and more!
+        - link "Book Now" [ref=e384] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/cabs/outstation-cabs/
+        - generic [ref=e385]:
+          - generic [ref=e386]:
+            - img "Delhi" [ref=e388]
+            - generic [ref=e389]:
+              - paragraph [ref=e390]: Delhi
+              - generic [ref=e391]:
+                - text: To-
+                - link "Agra," [ref=e392] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/delhi-to-agra-cab-booking/
+                - link "Bareilly," [ref=e393] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/delhi-to-bareilly-cab-booking/
+                - link "Dehradun" [ref=e394] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/delhi-to-dehradun-cab-booking/
+          - generic [ref=e395]:
+            - img "Mumbai" [ref=e397]
+            - generic [ref=e398]:
+              - paragraph [ref=e399]: Mumbai
+              - generic [ref=e400]:
+                - text: To-
+                - link "Shirdi," [ref=e401] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/navi-mumbai-to-shirdi-cab-booking/
+                - link "Pune," [ref=e402] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/navi-mumbai-to-pune-cab-booking/
+                - link "Lonavala" [ref=e403] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/navi-mumbai-to-lonavala-cab-booking/
+          - generic [ref=e404]:
+            - img "Chennai" [ref=e406]
+            - generic [ref=e407]:
+              - paragraph [ref=e408]: Chennai
+              - generic [ref=e409]:
+                - text: To-
+                - link "Hosur," [ref=e410] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/chennai-to-hosur-cab-booking/
+                - link "Tirupati ," [ref=e411] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/chennai-to-tirupati-cab-booking/
+                - link "Bengaluru" [ref=e412] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/chennai-to-bengaluru-cab-booking/
+          - generic [ref=e413]:
+            - img "Bengaluru" [ref=e415]
+            - generic [ref=e416]:
+              - paragraph [ref=e417]: Bengaluru
+              - generic [ref=e418]:
+                - text: To-
+                - link "Madikeri," [ref=e419] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/bengaluru-to-madikeri-cab-booking/
+                - link "Tirupati," [ref=e420] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/bengaluru-to-tirupati-cab-booking/
+                - link "Ooty" [ref=e421] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/bengaluru-to-ooty-cab-booking/
+          - generic [ref=e422]:
+            - img "Agra" [ref=e424]
+            - generic [ref=e425]:
+              - paragraph [ref=e426]: Agra
+              - generic [ref=e427]:
+                - text: To-
+                - link "Delhi," [ref=e428] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/agra-to-delhi-cab-booking/
+                - link "Lucknow," [ref=e429] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/agra-to-lucknow-cab-booking/
+                - link "Jaipur" [ref=e430] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/agra-to-jaipur-cab-booking/
+          - generic [ref=e431]:
+            - img "rishikesh" [ref=e433]
+            - generic [ref=e434]:
+              - paragraph [ref=e435]: Rishikesh
+              - generic [ref=e436]:
+                - text: To-
+                - link "Delhi," [ref=e437] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/rishikesh-to-delhi-cab-booking/
+                - link "Haridwar," [ref=e438] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/rishikesh-to-haridwar-cab-booking/
+                - link "Nainital" [ref=e439] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/rishikesh-to-nainital-cab-booking/
+      - generic [ref=e443]:
+        - generic [ref=e444]:
+          - paragraph [ref=e445]: Upto 10% Discount
+          - heading "Domestic Airport Transfer" [level=2] [ref=e446]
+          - paragraph [ref=e447]: Book your guaranteed airport transfer now and enjoy peace of mind with our double refund promise!
+          - link "Book Now" [ref=e449] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/airport-transfer/
+        - generic [ref=e450]:
+          - link "Pune Pune Airport Transfer" [ref=e452] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-pune-airport/
+            - img "Pune" [ref=e454]
+            - paragraph [ref=e456]: Pune Airport Transfer
+          - link "Chennai Chennai Airport Transfer" [ref=e458] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-chennai-airport/
+            - img "Chennai" [ref=e460]
+            - paragraph [ref=e462]: Chennai Airport Transfer
+          - link "Hyderabad Hyderabad Airport Transfer" [ref=e464] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-hyderabad-airport/
+            - img "Hyderabad" [ref=e466]
+            - paragraph [ref=e468]: Hyderabad Airport Transfer
+          - link "Delhi Delhi Airport Transfer" [ref=e470] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-delhi-airport/
+            - img "Delhi" [ref=e472]
+            - paragraph [ref=e474]: Delhi Airport Transfer
+          - link "Goa Goa Airport Transfer" [ref=e476] [cursor=pointer]:
+            - /url: " https://www.easemytrip.com/cabs/cabs-from-goa-airport/"
+            - img "Goa" [ref=e478]
+            - paragraph [ref=e480]: Goa Airport Transfer
+          - link "Mumbai Mumbai Airport Transfer" [ref=e482] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-mumbai-airport/
+            - img "Mumbai" [ref=e484]
+            - paragraph [ref=e486]: Mumbai Airport Transfer
+      - generic [ref=e488]:
+        - generic [ref=e489]:
+          - heading "Flexible Hourly Car Rentals in India" [level=2] [ref=e490]
+          - paragraph [ref=e491]: Rent a car by the hour for convenient and affordable travel within major Indian cities. Enjoy the freedom to explore at your own pace.
+        - generic [ref=e492]:
+          - generic [ref=e494]:
+            - generic [ref=e497]:
+              - img "Delhi" [ref=e499]
+              - generic [ref=e501]:
+                - generic [ref=e502]:
+                  - generic [ref=e503]:
+                    - strong [ref=e504]: Delhi
+                    - paragraph [ref=e505]: Delhi, India
+                  - img "copy-clock" [ref=e508]
+                - link "From ₹940 Book red-arrow" [ref=e510] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/car-rental-delhi/
+                  - generic [ref=e511]:
+                    - paragraph [ref=e513]: From ₹940
+                    - generic [ref=e515]:
+                      - text: Book
+                      - img "red-arrow" [ref=e516]
+            - generic [ref=e519]:
+              - img "Hyderabad-car" [ref=e521]
+              - generic [ref=e523]:
+                - generic [ref=e524]:
+                  - generic [ref=e525]:
+                    - strong [ref=e526]: Hyderabad
+                    - paragraph [ref=e527]: Andhra Pradesh, India
+                  - img "copy-clock" [ref=e530]
+                - link "From ₹1,400 Book red-arrow" [ref=e532] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/car-rental-hyderabad/
+                  - generic [ref=e533]:
+                    - paragraph [ref=e535]: From ₹1,400
+                    - generic [ref=e537]:
+                      - text: Book
+                      - img "red-arrow" [ref=e538]
+            - generic [ref=e541]:
+              - img "Chennai-car" [ref=e543]
+              - generic [ref=e545]:
+                - generic [ref=e546]:
+                  - generic [ref=e547]:
+                    - strong [ref=e548]: Chennai
+                    - paragraph [ref=e549]: Tamil Nadu, India
+                  - img "copy-clock" [ref=e552]
+                - link "From ₹1,500 Book red-arrow" [ref=e554] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/car-rental-chennai/
+                  - generic [ref=e555]:
+                    - paragraph [ref=e557]: From ₹1,500
+                    - generic [ref=e559]:
+                      - text: Book
+                      - img "red-arrow" [ref=e560]
+            - generic [ref=e563]:
+              - img "Bangaluru-car" [ref=e565]
+              - generic [ref=e567]:
+                - generic [ref=e568]:
+                  - generic [ref=e569]:
+                    - strong [ref=e570]: Bangaluru
+                    - paragraph [ref=e571]: Karnataka, India
+                  - img "copy-clock" [ref=e574]
+                - link "From ₹1,200 Book red-arrow" [ref=e576] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/car-rental-bengaluru/
+                  - generic [ref=e577]:
+                    - paragraph [ref=e579]: From ₹1,200
+                    - generic [ref=e581]:
+                      - text: Book
+                      - img "red-arrow" [ref=e582]
+            - generic [ref=e585]:
+              - img "kolkata" [ref=e587]
+              - generic [ref=e589]:
+                - generic [ref=e590]:
+                  - generic [ref=e591]:
+                    - strong [ref=e592]: Kolkata
+                    - paragraph [ref=e593]: Kolkata, India
+                  - img "copy-clock" [ref=e596]
+                - link "From ₹1,100 Book red-arrow" [ref=e598] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/car-rental-kolkata/
+                  - generic [ref=e599]:
+                    - paragraph [ref=e601]: From ₹1,100
+                    - generic [ref=e603]:
+                      - text: Book
+                      - img "red-arrow" [ref=e604]
+            - generic [ref=e607]:
+              - img "Ahmedabad-car" [ref=e609]
+              - generic [ref=e611]:
+                - generic [ref=e612]:
+                  - generic [ref=e613]:
+                    - strong [ref=e614]: Ahmedabad
+                    - paragraph [ref=e615]: Ahmedabad, India
+                  - img "copy-clock" [ref=e618]
+                - link "From ₹1,250 Book red-arrow" [ref=e620] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/car-rental-ahmedabad/
+                  - generic [ref=e621]:
+                    - paragraph [ref=e623]: From ₹1,250
+                    - generic [ref=e625]:
+                      - text: Book
+                      - img "red-arrow" [ref=e626]
+            - generic [ref=e629]:
+              - img "jaipur-car" [ref=e631]
+              - generic [ref=e633]:
+                - generic [ref=e634]:
+                  - generic [ref=e635]:
+                    - strong [ref=e636]: Jaipur
+                    - paragraph [ref=e637]: Jaipur, India
+                  - img "copy-clock" [ref=e640]
+                - link "From ₹1,000 Book red-arrow" [ref=e642] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/car-rental-jaipur/
+                  - generic [ref=e643]:
+                    - paragraph [ref=e645]: From ₹1,000
+                    - generic [ref=e647]:
+                      - text: Book
+                      - img "red-arrow" [ref=e648]
+            - generic [ref=e651]:
+              - img "varansi-car" [ref=e653]
+              - generic [ref=e655]:
+                - generic [ref=e656]:
+                  - generic [ref=e657]:
+                    - strong [ref=e658]: Varanasi
+                    - paragraph [ref=e659]: Uttar Pradesh, India
+                  - img "copy-clock" [ref=e662]
+                - link "From ₹1,260 Book red-arrow" [ref=e664] [cursor=pointer]:
+                  - /url: https://www.easemytrip.com/cabs/car-rental-varanasi/
+                  - generic [ref=e665]:
+                    - paragraph [ref=e667]: From ₹1,260
+                    - generic [ref=e669]:
+                      - text: Book
+                      - img "red-arrow" [ref=e670]
+          - generic:
+            - button [ref=e671] [cursor=pointer]
+            - button [ref=e672] [cursor=pointer]
+      - generic [ref=e674]:
+        - generic [ref=e675]:
+          - heading "Seamless Overseas Airport Transfers" [level=2] [ref=e676]
+          - paragraph [ref=e677]: Heading to an international destination? Pre-book your Overseas Airport Transfer and enjoy seamless rides from the airport to your hotel or any location in the city
+        - generic [ref=e678]:
+          - generic [ref=e680]:
+            - link "landon London Airport Transfer" [ref=e683] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/london-heathrow-airport/
+              - generic [ref=e684]:
+                - img "landon" [ref=e686]
+                - generic [ref=e688]: London Airport Transfer
+            - link "Singapore Singapore Airport Transfer" [ref=e692] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/changi-international-airport/
+              - img "Singapore" [ref=e694]
+              - generic [ref=e696]: Singapore Airport Transfer
+            - link "Dubai Dubai Airport Transfer" [ref=e700] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/dubai-airport/
+              - img "Dubai" [ref=e702]
+              - generic [ref=e704]: Dubai Airport Transfer
+            - link "Bangkok Airport Bangkok Airport Transfer" [ref=e708] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/bangkok-suvarnabhumi-airport/
+              - img "Bangkok Airport" [ref=e710]
+              - generic [ref=e712]: Bangkok Airport Transfer
+            - link "Abu Dhabi Abu Dhabi Ariport Transfer" [ref=e716] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/abu-dhabi-international-airport/
+              - img "Abu Dhabi" [ref=e718]
+              - generic [ref=e720]: Abu Dhabi Ariport Transfer
+            - link "Kuala Lumpur Kuala Lumpur Airport Transfer" [ref=e724] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/kuala-lumpur-international-airport/
+              - img "Kuala Lumpur" [ref=e726]
+              - generic [ref=e728]: Kuala Lumpur Airport Transfer
+            - link "Almaty Almaty Airport Transfer" [ref=e732] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/almaty-international-airport/
+              - img "Almaty" [ref=e734]
+              - generic [ref=e736]: Almaty Airport Transfer
+            - link "Sharjah Sharjah Airport Transfer" [ref=e740] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/sharjah-international-airport
+              - img "Sharjah" [ref=e742]
+              - generic [ref=e744]: Sharjah Airport Transfer
+            - link "Bali Bali Ngurah Rai Airport Transfer" [ref=e748] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/ngurah-rai-airport
+              - img "Bali" [ref=e750]
+              - generic [ref=e752]: Bali Ngurah Rai Airport Transfer
+            - link "melbourne.t Melbourne Airport Transfer" [ref=e756] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/cabs/overseas-airport-transfers/tullamarine-airport/
+              - img "melbourne.t" [ref=e758]
+              - generic [ref=e760]: Melbourne Airport Transfer
+          - generic:
+            - button [ref=e761] [cursor=pointer]
+            - button [ref=e762] [cursor=pointer]
+      - generic [ref=e764]:
+        - heading "Benefits To Book Cab With Us" [level=2] [ref=e765]
+        - generic [ref=e766]:
+          - generic [ref=e767]:
+            - img [ref=e769]
+            - generic [ref=e770]:
+              - paragraph [ref=e771]: 10,000+ Routes Covered
+              - paragraph [ref=e772]: We ensure that you can travel to almost any city to city ride seamlessly across India.
+          - generic [ref=e773]:
+            - img [ref=e775]
+            - generic [ref=e776]:
+              - paragraph [ref=e777]: 150+ Countries Wordwide
+              - paragraph [ref=e778]: No matter where you travel, EaseMyTrip provides reliable cab services globally.
+          - generic [ref=e779]:
+            - img [ref=e781]
+            - generic [ref=e782]:
+              - paragraph [ref=e783]: 100% Full Refund Policy
+              - paragraph [ref=e784]: We offer free cancellation on cab bookings in select cases for your convenience.
+          - generic [ref=e785]:
+            - img [ref=e787]
+            - generic [ref=e788]:
+              - paragraph [ref=e789]: 24/7 Support
+              - paragraph [ref=e790]: Our dedicated support team is available around the clock to assist you
+      - generic [ref=e794]:
+        - generic [ref=e795]:
+          - generic [ref=e796]:
+            - heading "Ride More, Pay Less! Save Up To 10% On Your Next Cab Booking." [level=2] [ref=e797]
+            - paragraph [ref=e798]: Travel affordably with exclusive savings on all cab bookings.
+            - paragraph [ref=e799]:
+              - strong [ref=e800]: "Use Code : EMTCAB"
+          - link "Book Now" [ref=e802] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/offers/cab-deal.html
+        - img "blue-img" [ref=e804]
+      - generic [ref=e807]:
+        - heading "Hassle-Free Cab Booking with EaseMyTrip" [level=2] [ref=e808]
+        - paragraph [ref=e809]: Are you tired of the never-ending struggle to book a cab online, especially during unfavorable weather conditions or in emergency situations? Look no further! EaseMyTrip is here to provide you with a seamless and convenient solution for all your cab booking needs. As a customer-centric company, we strive to deliver the best services to our travellers, ensuring a stress-free journey every time.
+        - heading "Unmatched Variety of Cabs and Discounts" [level=3] [ref=e810]
+        - paragraph [ref=e811]: At EaseMyTrip, we believe in providing our customers with a wide selection of cab options to cater to their diverse needs. Our extensive network consists of 4000+ cab operators through different vendors, ensuring you always have a reliable and comfortable mode of transportation available. Choose from a range of categories, including Hatchbacks, sedans, SUVs, and more, depending on your preferences and group size.
+        - paragraph [ref=e812]: Moreover, we understand the value of saving money while traveling. That's why EaseMyTrip offers discounted rates on taxi services. By booking through our platform, you can enjoy cost-effective cab rides without compromising on quality and reliability.
+        - link "Read More" [ref=e814] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - generic [ref=e817]:
+        - img [ref=e818]
+        - generic [ref=e819]:
+          - paragraph [ref=e820]: Hassle Free. 24X7 on-trip assistance
+          - paragraph [ref=e821]:
+            - img [ref=e823]
+            - text: 011 - 43131313, 43030303
+          - paragraph [ref=e824]:
+            - img [ref=e826]
+            - text: Care@easemytrip.com
+      - generic [ref=e828]:
+        - heading "Frequently Asked Questions" [level=3] [ref=e830]
+        - generic [ref=e831]:
+          - generic [ref=e833] [cursor=pointer]: How can I Book a Cab from EaseMyTrip?
+          - generic [ref=e835] [cursor=pointer]: What Car Categories Do You Provide?
+          - generic [ref=e837] [cursor=pointer]: Do you Offer Multiple Pickups Or Drops?
+          - generic [ref=e839] [cursor=pointer]: Is There any Convenience Charge on Cab Bookings made via the Web/App?
+          - generic [ref=e841] [cursor=pointer]: What should I Do If I have to Carry a Lot of Luggage during the Journey?
+          - generic [ref=e843] [cursor=pointer]: How can I Find the Best Cab Booking Offers & Deals?
+    - generic [ref=e845]:
+      - heading "Popular Cab Services" [level=4] [ref=e846]
+      - generic [ref=e847]:
+        - button "Airport Taxi" [ref=e848] [cursor=pointer]
+        - button "Hourly Car Rental" [ref=e849] [cursor=pointer]
+        - button "Outstation Taxi" [ref=e850] [cursor=pointer]
+        - button "Service Taxi" [ref=e851] [cursor=pointer]
+      - generic [ref=e852]:
+        - generic [ref=e853]:
+          - link "Bengaluru" [ref=e855] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-bengaluru-airport/
+            - generic [ref=e856]: Bengaluru
+          - link "Delhi" [ref=e858] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-delhi-airport/
+            - generic [ref=e859]: Delhi
+          - link "Mumbai" [ref=e861] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-mumbai-airport/
+            - generic [ref=e862]: Mumbai
+          - link "Hyderabad" [ref=e864] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-hyderabad-airport/
+            - generic [ref=e865]: Hyderabad
+        - generic [ref=e866]:
+          - link "Chennai" [ref=e868] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-chennai-airport/
+            - generic [ref=e869]: Chennai
+          - link "Bhubaneswar" [ref=e871] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-bhubaneswar-airport/
+            - generic [ref=e872]: Bhubaneswar
+          - link "Goa" [ref=e874] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-goa-airport/
+            - generic [ref=e875]: Goa
+          - link "Pune" [ref=e877] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-pune-airport/
+            - generic [ref=e878]: Pune
+        - generic [ref=e879]:
+          - link "Cochin" [ref=e881] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-cochin-airport/
+            - generic [ref=e882]: Cochin
+          - link "Kolkata" [ref=e884] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-kolkata-airport/
+            - generic [ref=e885]: Kolkata
+          - link "Amritsar" [ref=e887] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-amritsar-airport/
+            - generic [ref=e888]: Amritsar
+          - link "Jaipur" [ref=e890] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/cabs-from-jaipur-airport/
+            - generic [ref=e891]: Jaipur
+  - generic [ref=e893]:
+    - generic [ref=e896]:
+      - generic [ref=e897]:
+        - list [ref=e899]:
+          - button "OUR OFFERINGS" [ref=e900] [cursor=pointer]
+          - button "QUICK LINKS" [ref=e901] [cursor=pointer]
+          - button "POPULAR DESTINATION" [ref=e902] [cursor=pointer]
+          - button "INTERNATIONAL DESTINATION" [ref=e903] [cursor=pointer]
+          - button "POPULAR AIRLINE" [ref=e904] [cursor=pointer]
+          - button "CONNECT WITH US" [ref=e905] [cursor=pointer]
+          - button "OFFERS" [ref=e906] [cursor=pointer]
+          - button "EMT INSIGHTS" [ref=e907] [cursor=pointer]
+          - button "MEDIA" [ref=e908] [cursor=pointer]
+          - link "INVESTOR RELATIONS" [ref=e909] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/investor-relations.html
+          - link "CURRENT OPENINGS" [ref=e910] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/career.html
+        - generic [ref=e912]:
+          - paragraph [ref=e913]: Make your travel easy with a wide range of products and services.
+          - list [ref=e915]:
+            - listitem [ref=e916]:
+              - link "Flight" [ref=e917] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/flights/
+            - listitem [ref=e918]:
+              - link "Hotels" [ref=e919] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/hotels/
+            - listitem [ref=e920]:
+              - link "Trains" [ref=e921] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/railways/
+            - listitem [ref=e922]:
+              - link "Holidays" [ref=e923] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/holidays/
+            - listitem [ref=e924]:
+              - link "Bus" [ref=e925] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/bus/
+            - listitem [ref=e926]:
+              - link "Flight Status" [ref=e927] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/flights/flight-status/
+            - listitem [ref=e928]:
+              - link "Cabs" [ref=e929] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/cabs/
+            - listitem [ref=e930]:
+              - link "Airlines" [ref=e931] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/directory/airlines.html
+            - listitem [ref=e932]:
+              - link "Airports" [ref=e933] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/directory/airports-in-india.html
+            - listitem [ref=e934]:
+              - link "Travel Guides" [ref=e935] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/travel-guides.html
+            - listitem [ref=e936]:
+              - link "Check PNR Status" [ref=e937] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/railways/pnr-status/
+            - listitem [ref=e938]:
+              - link "EMT PRO" [ref=e939] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/JoinEMTPro
+            - listitem [ref=e940]:
+              - link "Activities" [ref=e941] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/activities/
+            - listitem [ref=e942]:
+              - link "Travel Updates" [ref=e943] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/travel-updates.html
+            - listitem [ref=e944]:
+              - link "Corporate travel" [ref=e945] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/corporate
+            - listitem [ref=e946]:
+              - link "Blog" [ref=e947] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/blog/
+            - listitem [ref=e948]:
+              - link "Flight Check-in" [ref=e949] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/flights/web-check-in/
+            - listitem [ref=e950]:
+              - link "VIP Cabs" [ref=e951] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/bookvipcabs.html
+      - generic [ref=e952]:
+        - generic [ref=e953]:
+          - img "EaseMyTrip.com" [ref=e955]
+          - paragraph [ref=e957]: EaseMyTrip offers 'End to End' travel solutions including air tickets for more than 400 international and domestic airlines, hotel bookings for nearly 1 million hotels in India and abroad, cab booking with 4000+ cab operators, bus tickets with 2000+ bus operators, and railway tickets in India for all major cities.
+        - generic [ref=e958]:
+          - generic [ref=e959]: DOWNLOAD EASEMYTRIP APP
+          - generic [ref=e961]:
+            - link "Download on Android" [ref=e963] [cursor=pointer]:
+              - /url: //play.google.com/store/apps/details?id=com.easemytrip.android
+              - img "Download on Android" [ref=e964]
+            - link "Download on IOS" [ref=e966] [cursor=pointer]:
+              - /url: https://itunes.apple.com/in/app/easemytrip-flight-booking/id1053030595?mt=8
+              - img "Download on IOS" [ref=e967]
+        - generic [ref=e968]:
+          - generic [ref=e969]: SCAN QR CODE
+          - img [ref=e973]
+    - generic [ref=e974]:
+      - generic [ref=e975]: Copyright © 2026 EaseMyTrip
+      - img [ref=e977]
+```
