@@ -1,0 +1,112 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - link "easemytrip.com" [ref=e10] [cursor=pointer]:
+      - /url: https://www.easemytrip.com/
+    - list [ref=e14]:
+      - listitem [ref=e15]:
+        - link "FLIGHTS" [ref=e16] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/flights.html
+          - generic [ref=e18]: FLIGHTS
+      - listitem [ref=e19]:
+        - link "HOTELS" [ref=e20] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/hotels/
+          - generic [ref=e22]: HOTELS
+      - listitem [ref=e23]:
+        - link "TRAINS" [ref=e24] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/railways/
+          - generic [ref=e26]: TRAINS
+      - listitem [ref=e27]:
+        - link "BUS" [ref=e28] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/bus/
+          - generic [ref=e30]: BUS
+      - listitem [ref=e31]:
+        - link "HOLIDAYS" [ref=e32] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/holidays/
+          - generic [ref=e34]: HOLIDAYS
+      - listitem [ref=e35]:
+        - link "CABS" [ref=e36] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/cabs/
+          - generic [ref=e38]: CABS
+      - listitem [ref=e39]:
+        - link "Activities" [ref=e40] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/activities/
+          - generic [ref=e42]: Activities
+      - listitem [ref=e43]:
+        - link "Visa" [ref=e44] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/visa-booking/
+          - generic [ref=e46]: Visa
+      - listitem [ref=e47] [cursor=pointer]:
+        - generic [ref=e50]: More
+        - generic:
+          - link "EaseMyTrip Cards Apply now to get Rewards" [ref=e51]:
+            - /url: https://www.emtcards.in/
+            - generic [ref=e53]:
+              - generic [ref=e54]: EaseMyTrip Cards
+              - generic [ref=e55]: Apply now to get Rewards
+          - link "EasyEloped For Romantic Getaways" [ref=e56]:
+            - /url: https://www.easyeloped.com/
+            - generic [ref=e58]:
+              - generic [ref=e59]: EasyEloped
+              - generic [ref=e60]: For Romantic Getaways
+          - link "EasyDarshan Spiritual Tours in India" [ref=e61]:
+            - /url: https://www.easydarshan.com/
+            - generic [ref=e63]:
+              - generic [ref=e64]: EasyDarshan
+              - generic [ref=e65]: Spiritual Tours in India
+          - link "Airport service Enjoy airport service" [ref=e66]:
+            - /url: https://www.easemytrip.com/airport-experience.html
+            - generic [ref=e68]:
+              - generic [ref=e69]: Airport service
+              - generic [ref=e70]: Enjoy airport service
+          - link "Gift Card Buy giftcards here" [ref=e71]:
+            - /url: https://www.easemytrip.com/giftcard
+            - generic [ref=e73]:
+              - generic [ref=e74]: Gift Card
+              - generic [ref=e75]: Buy giftcards here
+          - link "Offers Check Best latest offers" [ref=e76]:
+            - /url: https://www.easemytrip.com/deals.html
+            - generic [ref=e78]:
+              - generic [ref=e79]: Offers
+              - generic [ref=e80]: Check Best latest offers
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e86]: Customer Service
+          - generic:
+            - generic [ref=e90]:
+              - generic [ref=e91]: Call Support
+              - generic [ref=e92]: "Tel : 011 - 43131313, 43030303"
+            - link "Mail Support care@easemytrip.com" [ref=e93]:
+              - /url: mailto:care@easemytrip.com
+              - generic [ref=e95]:
+                - generic [ref=e96]: Mail Support
+                - generic [ref=e97]: care@easemytrip.com
+        - img "Toggle contrast mode" [ref=e100] [cursor=pointer]
+      - generic [ref=e101] [cursor=pointer]:
+        - generic [ref=e102]: Login or Signup
+        - generic:
+          - generic [ref=e105]:
+            - generic [ref=e106]: Customer Login
+            - generic [ref=e107]: Login & check bookings
+          - link "Corporate Travel Login corporate account" [ref=e108]:
+            - /url: https://www.easemytrip.com/corporate/
+            - generic [ref=e110]:
+              - generic [ref=e111]: Corporate Travel
+              - generic [ref=e112]: Login corporate account
+          - link "Agent Login Login your agent account" [ref=e113]:
+            - /url: https://www.easemytrip.com/agents/
+            - generic [ref=e115]:
+              - generic [ref=e116]: Agent Login
+              - generic [ref=e117]: Login your agent account
+          - link "My Booking Manage your bookings here" [ref=e118]:
+            - /url: https://mybookings.easemytrip.com/
+            - generic [ref=e120]:
+              - generic [ref=e121]: My Booking
+              - generic [ref=e122]: Manage your bookings here
+  - navigation [ref=e123]:
+    - generic [ref=e125] [cursor=pointer]: ✖
+    - list [ref=e127]
+```

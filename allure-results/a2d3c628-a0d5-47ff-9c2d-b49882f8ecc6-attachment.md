@@ -1,0 +1,1104 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic [ref=e4]:
+        - link "easemytrip.com" [ref=e6] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/
+        - generic [ref=e8]:
+          - generic [ref=e12] [cursor=pointer]:
+            - text: EMTMate
+            - generic [ref=e13]: Agent travel solution
+          - generic [ref=e17] [cursor=pointer]:
+            - text: EMTDesk
+            - generic [ref=e18]: Corporate travel program
+          - generic [ref=e22] [cursor=pointer]:
+            - text: EMTRoyale
+            - generic [ref=e23]: For Prime Members
+          - generic [ref=e27] [cursor=pointer]:
+            - text: Explore Bharat
+            - generic [ref=e28]: A Tour to India
+          - generic [ref=e32] [cursor=pointer]:
+            - text: Join EMTPro
+            - generic [ref=e33]: Enjoy More Benefits
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - generic [ref=e36] [cursor=pointer]:
+                - generic:
+                  - generic [ref=e41]:
+                    - generic [ref=e42]: Call Support
+                    - 'link "Tel : 011 - 43131313, 43030303" [ref=e43]':
+                      - /url: tel:011 - 43131313, 43030303
+                  - generic [ref=e46]:
+                    - generic [ref=e47]: Mail Support
+                    - link "Care@easemytrip.com" [ref=e48]:
+                      - /url: mailto:care@easemytrip.com
+              - generic [ref=e50] [cursor=pointer]:
+                - img "Flag" [ref=e52]
+                - generic [ref=e53]: India
+              - img "Toggle contrast mode" [ref=e57] [cursor=pointer]
+            - generic [ref=e58] [cursor=pointer]:
+              - generic [ref=e59]: Login or Signup
+              - generic:
+                - generic [ref=e62]:
+                  - generic [ref=e63]: Customer Login
+                  - generic [ref=e64]: Login & check bookings
+                - link "Corporate Travel Login corporate account" [ref=e65]:
+                  - /url: https://www.easemytrip.com/corporate/
+                  - generic [ref=e67]:
+                    - generic [ref=e68]: Corporate Travel
+                    - generic [ref=e69]: Login corporate account
+                - link "Agent Login Login your agent account" [ref=e70]:
+                  - /url: https://www.easemytrip.com/agents
+                  - generic [ref=e72]:
+                    - generic [ref=e73]: Agent Login
+                    - generic [ref=e74]: Login your agent account
+                - link "My Booking Manage your bookings here" [ref=e75]:
+                  - /url: https://mybookings.easemytrip.com/
+                  - generic [ref=e77]:
+                    - generic [ref=e78]: My Booking
+                    - generic [ref=e79]: Manage your bookings here
+            - generic: ₹ ₹
+      - list [ref=e83]:
+        - listitem [ref=e84]:
+          - link "Flights" [ref=e85] [cursor=pointer]:
+            - /url: /flights.html
+            - generic [ref=e87]: Flights
+        - listitem [ref=e88]:
+          - link "Hotels" [ref=e89] [cursor=pointer]:
+            - /url: /hotels/
+            - generic [ref=e91]: Hotels
+        - listitem [ref=e92]:
+          - link "Trains" [ref=e93] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/railways/
+            - generic [ref=e95]: Trains
+        - listitem [ref=e96]:
+          - link "Bus" [ref=e97] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/bus/
+            - generic [ref=e99]: Bus
+        - listitem [ref=e100]:
+          - link "Holidays" [ref=e101] [cursor=pointer]:
+            - /url: /holidays/
+            - generic [ref=e103]: Holidays
+        - listitem [ref=e104]:
+          - link "Cabs" [ref=e105] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/cabs/
+            - generic [ref=e107]: Cabs
+        - listitem [ref=e108]:
+          - link "Activities" [ref=e109] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/activities/
+            - generic [ref=e111]: Activities
+        - listitem [ref=e112]:
+          - link "Visa" [ref=e113] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/visa-booking/
+            - generic [ref=e115]: Visa
+        - listitem [ref=e116] [cursor=pointer]:
+          - generic [ref=e119]: More
+          - generic:
+            - link "Monuments Majestic Monuments of India" [ref=e120]:
+              - /url: https://monuments.easemytrip.com/
+              - generic [ref=e122]:
+                - generic [ref=e123]: Monuments
+                - generic [ref=e125]: Majestic Monuments of India
+            - link "EaseMyTrip Cards Apply now to get Rewards" [ref=e126]:
+              - /url: https://www.emtcards.in/
+              - generic [ref=e128]:
+                - generic [ref=e129]: EaseMyTrip Cards
+                - generic [ref=e130]: Apply now to get Rewards
+            - link "EasyEloped For Romantic Getaways" [ref=e131]:
+              - /url: https://www.easyeloped.com/
+              - generic [ref=e133]:
+                - generic [ref=e134]: EasyEloped
+                - generic [ref=e135]: For Romantic Getaways
+            - link "EasyDarshan Spiritual Tours in India" [ref=e136]:
+              - /url: https://www.easydarshan.com/
+              - generic [ref=e138]:
+                - generic [ref=e139]: EasyDarshan
+                - generic [ref=e140]: Spiritual Tours in India
+            - link "Airport Experience Enjoy airport service" [ref=e141]:
+              - /url: https://www.easemytrip.com/airport-experience.html
+              - generic [ref=e143]:
+                - generic [ref=e144]: Airport Experience
+                - generic [ref=e145]: Enjoy airport service
+            - link "Gift Card Buy giftcards here" [ref=e146]:
+              - /url: https://www.easemytrip.com/giftcard/
+              - generic [ref=e148]:
+                - generic [ref=e149]: Gift Card
+                - generic [ref=e150]: Buy giftcards here
+            - link "Offers Check Best latest offers" [ref=e151]:
+              - /url: https://www.easemytrip.com/deals.html
+              - generic [ref=e153]:
+                - generic [ref=e154]: Offers
+                - generic [ref=e155]: Check Best latest offers
+      - navigation [ref=e156]:
+        - generic [ref=e157]:
+          - generic [ref=e158] [cursor=pointer]: ✖
+          - img "Logo" [ref=e160] [cursor=pointer]
+        - list [ref=e161]
+  - generic [ref=e165]:
+    - generic [ref=e166]:
+      - tablist "Filter by trip type" [ref=e167]:
+        - tab "One Way" [ref=e168] [cursor=pointer]
+        - tab "Round Trip" [ref=e169] [cursor=pointer]
+        - tab "Multicity" [ref=e170] [cursor=pointer]
+      - heading "Search Lowest Price" [level=1] [ref=e171]
+    - generic [ref=e173]:
+      - generic [ref=e175] [cursor=pointer]:
+        - paragraph [ref=e176]: From
+        - textbox "From" [ref=e177]: Delhi
+        - paragraph [ref=e178]: "[DEL] Indira Gandhi International Airport"
+      - generic [ref=e181] [cursor=pointer]:
+        - paragraph [ref=e182]: To
+        - textbox "To" [ref=e183]: Mumbai
+        - paragraph [ref=e184]: "[BOM] Chhatrapati Shivaji International Airport"
+      - generic [ref=e186] [cursor=pointer]:
+        - paragraph [ref=e187]: Departure Date
+        - textbox "Departure" [ref=e188]: 20/02/2026
+        - paragraph [ref=e189]:
+          - text: 20Feb'2026
+          - img "Calender" [ref=e190]
+        - paragraph [ref=e191]: Friday
+      - generic [ref=e193] [cursor=pointer]:
+        - paragraph [ref=e194]: Return Date
+        - textbox "Return" [ref=e195]
+        - paragraph [ref=e196]:
+          - text: Book a round trip
+          - text: to save more
+        - paragraph [ref=e197]:
+          - img "Calender" [ref=e198]
+        - paragraph
+      - generic [ref=e200] [cursor=pointer]:
+        - paragraph [ref=e201]: Traveller & Class
+        - paragraph [ref=e202]:
+          - generic [ref=e203]: "1"
+          - generic [ref=e204]: Traveller
+        - paragraph [ref=e206]: Economy
+      - button "Search" [ref=e208] [cursor=pointer]
+    - navigation [ref=e209]:
+      - generic [ref=e210]: "Special Fares (Optional):"
+      - list [ref=e211]:
+        - listitem [ref=e212]:
+          - generic [ref=e213] [cursor=pointer]:
+            - text: Defence Forces
+            - checkbox "Defence Forces" [ref=e214]
+        - listitem [ref=e216]:
+          - generic [ref=e217] [cursor=pointer]:
+            - text: Students
+            - checkbox "Students" [ref=e218]
+        - listitem [ref=e220]:
+          - generic [ref=e221] [cursor=pointer]:
+            - text: Senior Citizens
+            - checkbox "Senior Citizens" [ref=e222]
+        - listitem [ref=e224]:
+          - generic [ref=e225] [cursor=pointer]:
+            - text: Doctors Nurses
+            - checkbox "Doctors Nurses" [ref=e226]
+      - generic [ref=e229] [cursor=pointer]:
+        - text: Book Hotel & Get up to
+        - strong [ref=e230]: 45% OFF
+        - text: "*"
+        - checkbox "Book Hotel & Get up to 45% OFF*" [ref=e231]
+  - generic [ref=e234]:
+    - generic [ref=e235]: Discover More
+    - list [ref=e236]:
+      - listitem [ref=e237]:
+        - link "Best Flight Deals" [ref=e238] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/offers/flights.html
+          - generic [ref=e240]: Best Flight Deals
+      - listitem [ref=e241]:
+        - link "Monuments" [ref=e242] [cursor=pointer]:
+          - /url: https://monuments.easemytrip.com/
+          - generic [ref=e245]: Monuments
+      - listitem [ref=e246]:
+        - link "Metro" [ref=e247] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/metro/
+          - generic [ref=e249]: Metro
+      - listitem [ref=e250]:
+        - link "Gift Cards" [ref=e251] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/giftcard/
+          - generic [ref=e253]: Gift Cards
+      - listitem [ref=e254]:
+        - link "EMT Cards" [ref=e255] [cursor=pointer]:
+          - /url: https://www.emtcards.in/
+          - generic [ref=e257]: EMT Cards
+      - listitem [ref=e258]:
+        - link "Forex Cash & Cards" [ref=e259] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/forex-cash-cards.html
+          - generic [ref=e261]: Forex Cash & Cards
+      - listitem [ref=e262]:
+        - link "EMT Airport Experience" [ref=e263] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/airport-experience.html?new
+          - generic [ref=e265]: EMT Airport Experience
+  - generic [ref=e268]:
+    - generic [ref=e269]:
+      - generic [ref=e271]: Exclusive Offers
+      - tablist "Filter offers by product" [ref=e272]:
+        - tab "Best Offers" [ref=e273] [cursor=pointer]
+        - tab "Bank Offers" [ref=e274] [cursor=pointer]: Bank Offers
+        - tab "Flight" [ref=e275] [cursor=pointer]: Flight
+        - tab "Hotel" [ref=e276] [cursor=pointer]: Hotel
+        - tab "Bus" [ref=e277] [cursor=pointer]: Bus
+        - tab "Holidays" [ref=e278] [cursor=pointer]: Holidays
+        - tab "Cabs" [ref=e279] [cursor=pointer]: Cabs
+        - link "View all" [ref=e280] [cursor=pointer]:
+          - /url: https://www.easemytrip.com/deals.html
+          - text: View All Offers
+    - generic [ref=e283]:
+      - generic [ref=e284]:
+        - group "1 / 20" [ref=e285]:
+          - link "Exclusive Deals for Student Travellers EMT Offers Special student discounts and extra baggage allowance on popular international airlines Book Now" [ref=e286] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/student-offer.html
+            - generic [ref=e287]:
+              - generic [ref=e288]:
+                - generic [ref=e289]: Exclusive Deals for
+                - generic [ref=e290]: Student Travellers
+              - img "EMT Offers" [ref=e292]
+            - generic [ref=e293]: Special student discounts and extra baggage allowance on popular international airlines
+            - generic [ref=e294]: Book Now
+        - group "2 / 20" [ref=e295]:
+          - link "Introducing Lowest Price Guarantee On Hotel Double Refund Find Better Hotel Price Anywhere Else & Get Double Refund on the Price Difference Book Now" [ref=e296] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/deals/lowest-price-guarantee/
+            - generic [ref=e297]:
+              - generic [ref=e298]:
+                - generic [ref=e299]: Introducing
+                - generic [ref=e300]: Lowest Price Guarantee
+                - generic [ref=e301]: On Hotel
+              - img "Double Refund" [ref=e303]
+            - generic [ref=e304]: Find Better Hotel Price Anywhere Else & Get Double Refund on the Price Difference
+            - generic [ref=e305]: Book Now
+        - group "3 / 20" [ref=e306]:
+          - link "Earn up to Rs. 2000 with Invite & Earn Invite & Earn Now Earn Money by Inviting Your Friends to EaseMyTrip Up to Rs. 2000 Inviting Now" [ref=e307] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/refer
+            - generic [ref=e308]:
+              - generic [ref=e309]:
+                - generic [ref=e310]: Earn up to Rs. 2000 with
+                - generic [ref=e311]: Invite & Earn
+              - img "Invite & Earn" [ref=e313]
+            - generic [ref=e314]: Now Earn Money by Inviting Your Friends to EaseMyTrip Up to Rs. 2000
+            - generic [ref=e315]: Inviting Now
+        - group "4 / 20" [ref=e316]:
+          - 'link "New User Deal on First Flight Use Code: EMTFIRST Copy Code First Booking Register and Get Discount on Booking First Flight with Us Valid till: 28th Feb 2026" [ref=e317] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/offers/new-user.html?CouponCode=emtfirst
+            - generic [ref=e318]:
+              - generic [ref=e319]:
+                - generic [ref=e320]: New User Deal on
+                - generic [ref=e321]: First Flight
+                - generic [ref=e323]:
+                  - generic [ref=e324]: "Use Code:"
+                  - generic [ref=e325]:
+                    - generic [ref=e326]: EMTFIRST
+                    - img "Copy Code" [ref=e328]
+              - img "First Booking" [ref=e330]
+            - generic [ref=e331]: Register and Get Discount on Booking First Flight with Us
+            - generic [ref=e332]: "Valid till: 28th Feb 2026"
+        - group "5 / 20" [ref=e333]:
+          - 'link "Book Flights with No Convenience Fee* Use Code: EMTNCF Copy Code Sale Enjoy Travelling to Your Favourite Destination with No Convenience Fee* Valid till: 28th Feb 2026" [ref=e334] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/offers/no-convenience-fee.html
+            - generic [ref=e335]:
+              - generic [ref=e336]:
+                - generic [ref=e337]: Book Flights with
+                - generic [ref=e338]: No Convenience Fee*
+                - generic [ref=e340]:
+                  - generic [ref=e341]: "Use Code:"
+                  - generic [ref=e342]:
+                    - generic [ref=e343]: EMTNCF
+                    - img "Copy Code" [ref=e345]
+              - img "Sale" [ref=e347]
+            - generic [ref=e348]: Enjoy Travelling to Your Favourite Destination with No Convenience Fee*
+            - generic [ref=e349]: "Valid till: 28th Feb 2026"
+        - group "6 / 20" [ref=e350]:
+          - 'link "exclusive Best Hotel Deals Grab Flat 50% OFF* Use Code: EMTHOTELS Copy Code Sale Enjoy Flat 50% OFF* on Select Hotels, INR 500 Cashback, Meal Upgrades & More Valid till: 28th Feb 2026" [ref=e351] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/deals/dhurandhar-sale/
+            - generic [ref=e352]: exclusive
+            - generic [ref=e353]:
+              - generic [ref=e354]:
+                - generic [ref=e355]: Best Hotel Deals
+                - generic [ref=e356]: Grab Flat 50% OFF*
+                - generic [ref=e358]:
+                  - generic [ref=e359]: "Use Code:"
+                  - generic [ref=e360]:
+                    - generic [ref=e361]: EMTHOTELS
+                    - img "Copy Code" [ref=e363]
+              - img "Sale" [ref=e365]
+            - generic [ref=e366]: Enjoy Flat 50% OFF* on Select Hotels, INR 500 Cashback, Meal Upgrades & More
+            - generic [ref=e367]: "Valid till: 28th Feb 2026"
+        - group "7 / 20" [ref=e368]:
+          - 'link "Grab Special Fares on KLM & Air France Sale Grab Exclusive Fares on Flights from India to Over 70 Destinations in Europe & the America Valid till: 9th Mar 2026" [ref=e369] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/offers/klm-special-fares.html
+            - generic [ref=e370]:
+              - generic [ref=e371]:
+                - generic [ref=e372]: Grab Special Fares on
+                - generic [ref=e373]: KLM & Air France
+              - img "Sale" [ref=e375]
+            - generic [ref=e376]: Grab Exclusive Fares on Flights from India to Over 70 Destinations in Europe & the America
+            - generic [ref=e377]: "Valid till: 9th Mar 2026"
+        - group "8 / 20" [ref=e378]:
+          - 'link "Unbeatable Discount on EGYPTAIR Flights Sale Enjoy 15% OFF* on Flights from Delhi & Mumbai with EGYPTAIR Valid till: 31st Mar 2026" [ref=e379] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/offers/egyptair-flight.html
+            - generic [ref=e380]:
+              - generic [ref=e381]:
+                - generic [ref=e382]: Unbeatable Discount on
+                - generic [ref=e383]: EGYPTAIR Flights
+              - img "Sale" [ref=e385]
+            - generic [ref=e386]: Enjoy 15% OFF* on Flights from Delhi & Mumbai with EGYPTAIR
+            - generic [ref=e387]: "Valid till: 31st Mar 2026"
+        - group "9 / 20" [ref=e388]:
+          - link "Grab Special Deals on Lufthansa & SWISS Airlines Sale Enjoy Up to 15% OFF* on Flight Bookings with Lufthansa & SWISS Airlines BOOK NOW" [ref=e389] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/offers/lufthansa-airlines.html
+            - generic [ref=e390]:
+              - generic [ref=e391]:
+                - generic [ref=e392]: Grab Special Deals on
+                - generic [ref=e393]: Lufthansa & SWISS Airlines
+              - img "Sale" [ref=e395]
+            - generic [ref=e396]: Enjoy Up to 15% OFF* on Flight Bookings with Lufthansa & SWISS Airlines
+            - generic [ref=e397]: BOOK NOW
+        - group "10 / 20" [ref=e398]:
+          - 'link "Fly With Us & Get FREE* Meal at the Airport Use Code: EMTMEALS Copy Code EMT Offers Grab Your FREE* Meal on Flight Bookings with EaseMyTrip! Book Now Powered by EMT Offers" [ref=e399] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/offers/free-meal.html
+            - generic [ref=e400]:
+              - generic [ref=e401]:
+                - generic [ref=e402]: Fly With Us & Get
+                - generic [ref=e403]: FREE* Meal at the Airport
+                - generic [ref=e405]:
+                  - generic [ref=e406]: "Use Code:"
+                  - generic [ref=e407]:
+                    - generic [ref=e408]: EMTMEALS
+                    - img "Copy Code" [ref=e410]
+              - img "EMT Offers" [ref=e412]
+            - generic [ref=e413]: Grab Your FREE* Meal on Flight Bookings with EaseMyTrip!
+            - generic [ref=e414]:
+              - generic [ref=e415]: Book Now
+              - generic [ref=e416]:
+                - text: Powered by
+                - img "EMT Offers" [ref=e417]
+        - group "11 / 20" [ref=e418]:
+          - link "Protect Baggage with Blue Ribbon Bags Sale Protect your checked-in baggage with EaseMyTrip's Blue Ribbon Protection. Know More" [ref=e419] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/deals/blue-ribbon/
+            - generic [ref=e420]:
+              - generic [ref=e421]:
+                - generic [ref=e422]: Protect Baggage with
+                - generic [ref=e423]:
+                  - text: Blue Ribbon
+                  - text: Bags
+              - img "Sale" [ref=e425]
+            - generic [ref=e426]: Protect your checked-in baggage with EaseMyTrip's Blue Ribbon Protection.
+            - generic [ref=e427]: Know More
+        - group "12 / 20" [ref=e428]:
+          - 'link "Best Deals for Your International Travel Use Code: INTEMT Copy Code EMT Offers Best Deals on Airlines like EGYPTAIR, ITA Airways, British Airways, KLM and many more. Book Now" [ref=e429] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/deals/airlines-sale/
+            - generic [ref=e430]:
+              - generic [ref=e431]:
+                - generic [ref=e432]: Best Deals for Your
+                - generic [ref=e433]: International Travel
+                - generic [ref=e435]:
+                  - generic [ref=e436]: "Use Code:"
+                  - generic [ref=e437]:
+                    - generic [ref=e438]: INTEMT
+                    - img "Copy Code" [ref=e440]
+              - img "EMT Offers" [ref=e442]
+            - generic [ref=e443]: Best Deals on Airlines like EGYPTAIR, ITA Airways, British Airways, KLM and many more.
+            - generic [ref=e444]: Book Now
+        - group "13 / 20" [ref=e445]:
+          - link "Exclusive Deals for Student Travellers EMT Offers Special student discounts and extra baggage allowance on popular international airlines Book Now" [ref=e446] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/student-offer.html
+            - generic [ref=e447]:
+              - generic [ref=e448]:
+                - generic [ref=e449]: Exclusive Deals for
+                - generic [ref=e450]: Student Travellers
+              - img "EMT Offers" [ref=e452]
+            - generic [ref=e453]: Special student discounts and extra baggage allowance on popular international airlines
+            - generic [ref=e454]: Book Now
+        - group "14 / 20" [ref=e455]:
+          - link "Introducing Lowest Price Guarantee On Hotel Double Refund Find Better Hotel Price Anywhere Else & Get Double Refund on the Price Difference Book Now" [ref=e456] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/deals/lowest-price-guarantee/
+            - generic [ref=e457]:
+              - generic [ref=e458]:
+                - generic [ref=e459]: Introducing
+                - generic [ref=e460]: Lowest Price Guarantee
+                - generic [ref=e461]: On Hotel
+              - img "Double Refund" [ref=e463]
+            - generic [ref=e464]: Find Better Hotel Price Anywhere Else & Get Double Refund on the Price Difference
+            - generic [ref=e465]: Book Now
+        - group "15 / 20" [ref=e466]:
+          - link "Earn up to Rs. 2000 with Invite & Earn Invite & Earn Now Earn Money by Inviting Your Friends to EaseMyTrip Up to Rs. 2000 Inviting Now" [ref=e467] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/refer
+            - generic [ref=e468]:
+              - generic [ref=e469]:
+                - generic [ref=e470]: Earn up to Rs. 2000 with
+                - generic [ref=e471]: Invite & Earn
+              - img "Invite & Earn" [ref=e473]
+            - generic [ref=e474]: Now Earn Money by Inviting Your Friends to EaseMyTrip Up to Rs. 2000
+            - generic [ref=e475]: Inviting Now
+        - group "16 / 20" [ref=e476]:
+          - 'link "New User Deal on First Flight Use Code: EMTFIRST Copy Code First Booking Register and Get Discount on Booking First Flight with Us Valid till: 28th Feb 2026" [ref=e477] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/offers/new-user.html?CouponCode=emtfirst
+            - generic [ref=e478]:
+              - generic [ref=e479]:
+                - generic [ref=e480]: New User Deal on
+                - generic [ref=e481]: First Flight
+                - generic [ref=e483]:
+                  - generic [ref=e484]: "Use Code:"
+                  - generic [ref=e485]:
+                    - generic [ref=e486]: EMTFIRST
+                    - img "Copy Code" [ref=e488]
+              - img "First Booking" [ref=e490]
+            - generic [ref=e491]: Register and Get Discount on Booking First Flight with Us
+            - generic [ref=e492]: "Valid till: 28th Feb 2026"
+        - group "17 / 20" [ref=e493]:
+          - 'link "Book Flights with No Convenience Fee* Use Code: EMTNCF Copy Code Sale Enjoy Travelling to Your Favourite Destination with No Convenience Fee* Valid till: 28th Feb 2026" [ref=e494] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/offers/no-convenience-fee.html
+            - generic [ref=e495]:
+              - generic [ref=e496]:
+                - generic [ref=e497]: Book Flights with
+                - generic [ref=e498]: No Convenience Fee*
+                - generic [ref=e500]:
+                  - generic [ref=e501]: "Use Code:"
+                  - generic [ref=e502]:
+                    - generic [ref=e503]: EMTNCF
+                    - img "Copy Code" [ref=e505]
+              - img "Sale" [ref=e507]
+            - generic [ref=e508]: Enjoy Travelling to Your Favourite Destination with No Convenience Fee*
+            - generic [ref=e509]: "Valid till: 28th Feb 2026"
+        - group "18 / 20" [ref=e510]:
+          - 'link "exclusive Best Hotel Deals Grab Flat 50% OFF* Use Code: EMTHOTELS Copy Code Sale Enjoy Flat 50% OFF* on Select Hotels, INR 500 Cashback, Meal Upgrades & More Valid till: 28th Feb 2026" [ref=e511] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/deals/dhurandhar-sale/
+            - generic [ref=e512]: exclusive
+            - generic [ref=e513]:
+              - generic [ref=e514]:
+                - generic [ref=e515]: Best Hotel Deals
+                - generic [ref=e516]: Grab Flat 50% OFF*
+                - generic [ref=e518]:
+                  - generic [ref=e519]: "Use Code:"
+                  - generic [ref=e520]:
+                    - generic [ref=e521]: EMTHOTELS
+                    - img "Copy Code" [ref=e523]
+              - img "Sale" [ref=e525]
+            - generic [ref=e526]: Enjoy Flat 50% OFF* on Select Hotels, INR 500 Cashback, Meal Upgrades & More
+            - generic [ref=e527]: "Valid till: 28th Feb 2026"
+        - group "19 / 20" [ref=e528]:
+          - 'link "Grab Special Fares on KLM & Air France Sale Grab Exclusive Fares on Flights from India to Over 70 Destinations in Europe & the America Valid till: 9th Mar 2026" [ref=e529] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/offers/klm-special-fares.html
+            - generic [ref=e530]:
+              - generic [ref=e531]:
+                - generic [ref=e532]: Grab Special Fares on
+                - generic [ref=e533]: KLM & Air France
+              - img "Sale" [ref=e535]
+            - generic [ref=e536]: Grab Exclusive Fares on Flights from India to Over 70 Destinations in Europe & the America
+            - generic [ref=e537]: "Valid till: 9th Mar 2026"
+        - group "20 / 20" [ref=e538]:
+          - 'link "Unbeatable Discount on EGYPTAIR Flights Sale Enjoy 15% OFF* on Flights from Delhi & Mumbai with EGYPTAIR Valid till: 31st Mar 2026" [ref=e539] [cursor=pointer]':
+            - /url: https://www.easemytrip.com/offers/egyptair-flight.html
+            - generic [ref=e540]:
+              - generic [ref=e541]:
+                - generic [ref=e542]: Unbeatable Discount on
+                - generic [ref=e543]: EGYPTAIR Flights
+              - img "Sale" [ref=e545]
+            - generic [ref=e546]: Enjoy 15% OFF* on Flights from Delhi & Mumbai with EGYPTAIR
+            - generic [ref=e547]: "Valid till: 31st Mar 2026"
+      - button "Next slide" [ref=e548] [cursor=pointer]
+      - button "Previous slide" [ref=e549] [cursor=pointer]
+  - generic [ref=e550]:
+    - button "Previous slide" [ref=e551] [cursor=pointer]
+    - generic [ref=e553]:
+      - link "Air India" [ref=e554] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/offers/airindia-sale.html
+        - img "Air India" [ref=e555]
+      - link "Addons" [ref=e556] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/flights/add-ons/
+        - img "Addons" [ref=e557]
+      - link "EMT Foundation" [ref=e558] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/emtfoundation
+        - img "EMT Foundation" [ref=e559]
+      - link "Air India" [ref=e560] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/offers/airindia-sale.html
+        - img "Air India" [ref=e561]
+    - button "Next slide" [ref=e562] [cursor=pointer]
+  - generic [ref=e563]:
+    - generic [ref=e564]:
+      - generic [ref=e566]: Top Flight Routes
+      - generic [ref=e567]:
+        - link "Top Route Chennai Flight Mumbai MAA-BOM" [ref=e568] [cursor=pointer]:
+          - /url: https://flight.easemytrip.com/FlightList/Index?org=MAA-Chennai, India ,&dept=BOM-Mumbai, India ,&adt=1&chd=0&inf=0&cabin=0&airline=Any&deptDT=21/2/2026&arrDT=undefined&isOneway=true&isDomestic=false
+          - img "Top Route" [ref=e570]
+          - generic [ref=e571]:
+            - generic [ref=e572]:
+              - text: Chennai
+              - img "Flight" [ref=e574]
+              - text: Mumbai
+            - generic [ref=e575]: MAA-BOM
+        - link "Top Route Delhi Flight Ahmedabad DEL-AMD" [ref=e576] [cursor=pointer]:
+          - /url: https://flight.easemytrip.com/FlightList/Index?org=DEL-Delhi, India ,&dept=AMD-Ahmedabad, India ,&adt=1&chd=0&inf=0&cabin=0&airline=Any&deptDT=21/2/2026&arrDT=undefined&isOneway=true&isDomestic=false
+          - img "Top Route" [ref=e578]
+          - generic [ref=e579]:
+            - generic [ref=e580]:
+              - text: Delhi
+              - img "Flight" [ref=e582]
+              - text: Ahmedabad
+            - generic [ref=e583]: DEL-AMD
+        - link "Top Route Delhi Flight Lucknow DEL-LKO" [ref=e584] [cursor=pointer]:
+          - /url: https://flight.easemytrip.com/FlightList/Index?org=DEL-Delhi, India ,&dept=LKO-Lucknow, India ,&adt=1&chd=0&inf=0&cabin=0&airline=Any&deptDT=21/2/2026&arrDT=undefined&isOneway=true&isDomestic=false
+          - img "Top Route" [ref=e586]
+          - generic [ref=e587]:
+            - generic [ref=e588]:
+              - text: Delhi
+              - img "Flight" [ref=e590]
+              - text: Lucknow
+            - generic [ref=e591]: DEL-LKO
+        - link "Top Route Mumbai Flight Chennai BOM-MAA" [ref=e592] [cursor=pointer]:
+          - /url: https://flight.easemytrip.com/FlightList/Index?org=BOM-Mumbai, India ,&dept=MAA-Chennai, India ,&adt=1&chd=0&inf=0&cabin=0&airline=Any&deptDT=21/2/2026&arrDT=undefined&isOneway=true&isDomestic=false
+          - img "Top Route" [ref=e594]
+          - generic [ref=e595]:
+            - generic [ref=e596]:
+              - text: Mumbai
+              - img "Flight" [ref=e598]
+              - text: Chennai
+            - generic [ref=e599]: BOM-MAA
+        - link "Top Route Mumbai Flight Dubai BOM-DXB" [ref=e600] [cursor=pointer]:
+          - /url: https://flight.easemytrip.com/FlightList/Index?org=BOM-Mumbai, India ,&dept=DXB-Dubai, United Arab Emirates ,&adt=1&chd=0&inf=0&cabin=0&airline=Any&deptDT=21/2/2026&arrDT=undefined&isOneway=true&isDomestic=false
+          - img "Top Route" [ref=e602]
+          - generic [ref=e603]:
+            - generic [ref=e604]:
+              - text: Mumbai
+              - img "Flight" [ref=e606]
+              - text: Dubai
+            - generic [ref=e607]: BOM-DXB
+        - link "Top Route Mumbai Flight Kolkata BOM-CCU" [ref=e608] [cursor=pointer]:
+          - /url: https://flight.easemytrip.com/FlightList/Index?org=BOM-Mumbai, India ,&dept=CCU-Kolkata, India ,&adt=1&chd=0&inf=0&cabin=0&airline=Any&deptDT=21/2/2026&arrDT=undefined&isOneway=true&isDomestic=false
+          - img "Top Route" [ref=e610]
+          - generic [ref=e611]:
+            - generic [ref=e612]:
+              - text: Mumbai
+              - img "Flight" [ref=e614]
+              - text: Kolkata
+            - generic [ref=e615]: BOM-CCU
+        - link "Top Route Hyderabad Flight Bangalore HYD-BLR" [ref=e616] [cursor=pointer]:
+          - /url: https://flight.easemytrip.com/FlightList/Index?org=HYD-Hyderabad, India ,&dept=BLR-Bangalore, India ,&adt=1&chd=0&inf=0&cabin=0&airline=Any&deptDT=21/2/2026&arrDT=undefined&isOneway=true&isDomestic=false
+          - img "Top Route" [ref=e618]
+          - generic [ref=e619]:
+            - generic [ref=e620]:
+              - text: Hyderabad
+              - img "Flight" [ref=e622]
+              - text: Bangalore
+            - generic [ref=e623]: HYD-BLR
+        - link "Top Route Mumbai Flight Jaipur BOM-JAI" [ref=e624] [cursor=pointer]:
+          - /url: https://flight.easemytrip.com/FlightList/Index?org=BOM-Mumbai, India ,&dept=JAI-Jaipur, India ,&adt=1&chd=0&inf=0&cabin=0&airline=Any&deptDT=21/2/2026&arrDT=undefined&isOneway=true&isDomestic=false
+          - img "Top Route" [ref=e626]
+          - generic [ref=e627]:
+            - generic [ref=e628]:
+              - text: Mumbai
+              - img "Flight" [ref=e630]
+              - text: Jaipur
+            - generic [ref=e631]: BOM-JAI
+        - link "Top Route Delhi Flight Dubai DEL-DXB" [ref=e632] [cursor=pointer]:
+          - /url: https://flight.easemytrip.com/FlightList/Index?org=DEL-Delhi, India ,&dept=DXB-Dubai, United Arab Emirates ,&adt=1&chd=0&inf=0&cabin=0&airline=Any&deptDT=21/2/2026&arrDT=undefined&isOneway=true&isDomestic=false
+          - img "Top Route" [ref=e634]
+          - generic [ref=e635]:
+            - generic [ref=e636]:
+              - text: Delhi
+              - img "Flight" [ref=e638]
+              - text: Dubai
+            - generic [ref=e639]: DEL-DXB
+    - generic [ref=e641]:
+      - generic [ref=e642]:
+        - img "Important Info" [ref=e644]
+        - generic [ref=e645]:
+          - generic [ref=e646]: "Important Info:"
+          - generic [ref=e647]: To cancel/claim refund or reschedule/modify your booking.
+          - link "Click here..." [ref=e649] [cursor=pointer]:
+            - /url: https://mybookings.easemytrip.com/
+      - generic [ref=e650]:
+        - img "Travel Guide" [ref=e652]
+        - generic [ref=e653]:
+          - generic [ref=e654]: Airline Notifications
+          - generic [ref=e655]:
+            - text: Get instant flight updates, notifications and travel alerts from airlines to remain informed
+            - link "Click here..." [ref=e657] [cursor=pointer]:
+              - /url: https://www.easemytrip.com/airlines-daily-updates.html
+  - generic [ref=e659]:
+    - generic [ref=e661]: Trending Tourist Destinations
+    - generic [ref=e662]:
+      - link "Andaman Andaman" [ref=e663] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/andaman-tours-packages/
+        - img "Andaman" [ref=e665]
+        - generic [ref=e666]: Andaman
+      - link "Kerala Kerala" [ref=e667] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/kerala-tours-packages/
+        - img "Kerala" [ref=e669]
+        - generic [ref=e670]: Kerala
+      - link "Kashmir Kashmir" [ref=e671] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/kashmir-tours-packages/
+        - img "Kashmir" [ref=e673]
+        - generic [ref=e674]: Kashmir
+      - link "Jaipur Rajasthan" [ref=e675] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/rajasthan-tours-packages/
+        - img "Jaipur" [ref=e677]
+        - generic [ref=e678]: Rajasthan
+      - link "Jaipur Bhutan" [ref=e679] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/bhutan-tours-packages/
+        - img "Jaipur" [ref=e681]
+        - generic [ref=e682]: Bhutan
+      - link "Paris Europe" [ref=e683] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/europe-tours-packages/
+        - img "Paris" [ref=e685]
+        - generic [ref=e686]: Europe
+      - link "Bali Bali" [ref=e687] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/bali-tours-packages/
+        - img "Bali" [ref=e689]
+        - generic [ref=e690]: Bali
+      - link "Dubai Dubai" [ref=e691] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/dubai-tours-packages/
+        - img "Dubai" [ref=e693]
+        - generic [ref=e694]: Dubai
+      - link "Dubai Vietnam" [ref=e695] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/vietnam-tours-packages/
+        - img "Dubai" [ref=e697]
+        - generic [ref=e698]: Vietnam
+      - link "Dubai Sri Lanka" [ref=e699] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/holidays/sri-lanka-tours-packages/
+        - img "Dubai" [ref=e701]
+        - generic [ref=e702]: Sri Lanka
+  - generic [ref=e704]:
+    - generic [ref=e706]: Favourite places to stay
+    - generic [ref=e707]:
+      - link "Delhi Explore Delhi Hotel" [ref=e708] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/hotels/hotels-in-delhi/
+        - generic [ref=e709]: Delhi
+        - generic [ref=e710]: Explore
+        - img "Delhi Hotel" [ref=e712]
+      - link "Mumbai Explore Mumbai Hotel" [ref=e713] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/hotels/hotels-in-mumbai/
+        - generic [ref=e714]: Mumbai
+        - generic [ref=e715]: Explore
+        - img "Mumbai Hotel" [ref=e717]
+      - link "Bangalore Explore Bangalore Hotel" [ref=e718] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/hotels/hotels-in-bangalore/
+        - generic [ref=e719]: Bangalore
+        - generic [ref=e720]: Explore
+        - img "Bangalore Hotel" [ref=e722]
+      - link "Jaipur Explore Jaipur Hotel" [ref=e723] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/hotels/hotels-in-jaipur/
+        - generic [ref=e724]: Jaipur
+        - generic [ref=e725]: Explore
+        - img "Jaipur Hotel" [ref=e727]
+      - link "Chennai Explore Chennai Hotel" [ref=e728] [cursor=pointer]:
+        - /url: https://www.easemytrip.com/hotels/hotels-in-chennai/
+        - generic [ref=e729]: Chennai
+        - generic [ref=e730]: Explore
+        - img "Chennai Hotel" [ref=e732]
+    - link "View All" [ref=e734] [cursor=pointer]:
+      - /url: https://www.easemytrip.com/hotels/
+  - generic [ref=e736]:
+    - generic [ref=e738]: Enjoy Fresh Travel Blogs
+    - generic [ref=e740]:
+      - article [ref=e741]:
+        - generic [ref=e743]: Travel Tips
+        - generic [ref=e744]:
+          - heading "Where is it Hot in February? Best Beach Destinations for 2026" [level=3] [ref=e745]
+          - link "Read More ➞" [ref=e746] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/blog/where-is-it-hot-in-february-best-beach-destinations-for-2026
+      - article [ref=e747]:
+        - generic [ref=e749]: Travel Tips
+        - generic [ref=e750]:
+          - 'heading "Last-Minute Romantic Getaways: Where to Go This Weekend" [level=3] [ref=e751]'
+          - link "Read More ➞" [ref=e752] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/blog/last-minute-romantic-getaways-this-weekend
+      - article [ref=e753]:
+        - generic [ref=e755]: Travel
+        - generic [ref=e756]:
+          - 'heading "Cab Booking Near Me: How to Find the Cheapest Taxi Instantly" [level=3] [ref=e757]'
+          - link "Read More ➞" [ref=e758] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/blog/cab-booking-near-me-cheapest-taxi
+      - article [ref=e759]:
+        - generic [ref=e761]: Travel
+        - generic [ref=e762]:
+          - heading "How AI Is Improving Bus Travel in India" [level=3] [ref=e763]
+          - link "Read More ➞" [ref=e764] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/blog/how-ai-improving-bus-travel-india
+    - link "View All" [ref=e766] [cursor=pointer]:
+      - /url: https://www.easemytrip.com/blog/
+  - generic [ref=e769]:
+    - generic [ref=e770]:
+      - generic [ref=e771]: Why book with us?
+      - img "TP Logo" [ref=e773]
+    - generic [ref=e774]:
+      - generic [ref=e775]:
+        - img "Easy Booking" [ref=e776]
+        - generic [ref=e777]: Easy Booking
+        - generic [ref=e778]: We offer easy and convenient flight bookings with attractive offers.
+      - generic [ref=e779]:
+        - img "Lowest Price" [ref=e780]
+        - generic [ref=e781]: Lowest Price
+        - generic [ref=e782]: We ensure low rates on hotel reservation, holiday packages and on flight tickets.
+      - generic [ref=e783]:
+        - img "Instant Refund" [ref=e784]
+        - generic [ref=e785]: Instant Refund
+        - generic [ref=e786]: Get instant refunds effortlessly on your travel bookings with us.
+      - generic [ref=e787]:
+        - img "24/7 Support" [ref=e788]
+        - generic [ref=e789]: 24/7 Support
+        - generic [ref=e790]: Get assistance 24/7 on any kind of travel related query. We are happy to assist you.
+      - generic [ref=e791]:
+        - img "Exciting Deals" [ref=e792]
+        - generic [ref=e793]: Exciting Deals
+        - generic [ref=e794]: Enjoy exciting deals on flights, hotels, buses, car rental and tour packages.
+    - iframe [ref=e797]:
+      - generic "Trustpilot reviews. Rated 3.5 out of 5 based on 18,640 reviews on Trustpilot. Showing our 5 star reviews" [ref=f5e2]:
+        - generic [ref=f5e3]:
+          - button "Carousel scroll left" [disabled] [ref=f5e6] [cursor=pointer]:
+            - img [ref=f5e9]
+          - button "Carousel scroll right" [ref=f5e14] [cursor=pointer]:
+            - img [ref=f5e17]
+          - region "Showing our 5 star reviews" [ref=f5e20]:
+            - list [ref=f5e21]:
+              - listitem [ref=f5e22]:
+                - generic [ref=f5e23]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e28]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e50] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e51]:
+                      - img [ref=f5e55]
+                      - generic [ref=f5e57]: Verified
+                - link "Review by customer, 1 hour ago, Superb experience, Superb experience , Click to view the full review on Trustpilot" [ref=f5e58] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6998109c8ae5e4123acc0ab5?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e59]:
+                    - generic [ref=f5e60]: Superb experience
+                    - generic [ref=f5e61]: Superb experience
+                    - generic [ref=f5e62]:
+                      - generic [ref=f5e63]: customer,
+                      - generic [ref=f5e64]: 1 hour ago
+              - listitem [ref=f5e65]:
+                - generic [ref=f5e66]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e71]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e93] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e94]:
+                      - img [ref=f5e98]
+                      - generic [ref=f5e100]: Verified
+                - link "Review by Anand Gunaji, 1 hour ago, Good Experience, Good Experience, with travel Bookings. Quite satisfied , Click to view the full review on Trustpilot" [ref=f5e101] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/69980b14467d3673b4bf3808?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e102]:
+                    - generic [ref=f5e103]: Good Experience
+                    - generic [ref=f5e104]: Good Experience, with travel Bookings. Quite satisfied
+                    - generic [ref=f5e105]:
+                      - generic [ref=f5e106]: Anand Gunaji,
+                      - generic [ref=f5e107]: 1 hour ago
+              - listitem [ref=f5e108]:
+                - generic [ref=f5e109]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e114]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e136] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e137]:
+                      - img [ref=f5e141]
+                      - generic [ref=f5e143]: Verified
+                - link "Review by Atma Ram Chauhan, 3 hours ago, Great experience, My issue has been resolved. Thanks for such prompt response. Good experience., Click to view the full review on Trustpilot" [ref=f5e144] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997ef0dadfd47ce081fc3f3?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e145]:
+                    - generic [ref=f5e146]: Great experience
+                    - generic [ref=f5e147]: My issue has been resolved. Thanks for such prompt response. Good experience.
+                    - generic [ref=f5e148]:
+                      - generic [ref=f5e149]: Atma Ram Chauhan,
+                      - generic [ref=f5e150]: 3 hours ago
+              - listitem [ref=f5e151]:
+                - generic [ref=f5e152]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e157]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e179] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e180]:
+                      - img [ref=f5e184]
+                      - generic [ref=f5e186]: Verified
+                - link "Review by Umesh Chandra Sharma, 4 hours ago, Very convenient site to book air ticket…, Very convenient site to book air ticket with great savings , Click to view the full review on Trustpilot" [ref=f5e187] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997ed15b4814ac39faeb998?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e188]:
+                    - generic [ref=f5e189]: Very convenient site to book air ticket…
+                    - generic [ref=f5e190]: Very convenient site to book air ticket with great savings
+                    - generic [ref=f5e191]:
+                      - generic [ref=f5e192]: Umesh Chandra Sharma,
+                      - generic [ref=f5e193]: 4 hours ago
+              - listitem [ref=f5e194]:
+                - generic [ref=f5e195]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e200]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e222] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e223]:
+                      - img [ref=f5e227]
+                      - generic [ref=f5e229]: Verified
+                - link "Review by Dr Kuntal Ganguly, 4 hours ago, Excellent service, Excellent service , Click to view the full review on Trustpilot" [ref=f5e230] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997e3f0fc396fda2716c145?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e231]:
+                    - generic [ref=f5e232]: Excellent service
+                    - generic [ref=f5e233]: Excellent service
+                    - generic [ref=f5e234]:
+                      - generic [ref=f5e235]: Dr Kuntal Ganguly,
+                      - generic [ref=f5e236]: 4 hours ago
+              - listitem [ref=f5e237]:
+                - generic [ref=f5e238]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e243]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e265] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e266]:
+                      - img [ref=f5e270]
+                      - generic [ref=f5e272]: Verified
+                - link "Review by Manish, 5 hours ago, Good genuine and price satisfied, Good genuine and price satisfied, Click to view the full review on Trustpilot" [ref=f5e273] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997dda96b2670a1ae901821?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e274]:
+                    - generic [ref=f5e275]: Good genuine and price satisfied
+                    - generic [ref=f5e276]: Good genuine and price satisfied
+                    - generic [ref=f5e277]:
+                      - generic [ref=f5e278]: Manish,
+                      - generic [ref=f5e279]: 5 hours ago
+              - listitem [ref=f5e280]:
+                - generic [ref=f5e281]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e286]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e308] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e309]:
+                      - img [ref=f5e313]
+                      - generic [ref=f5e315]: Verified
+                - link "Review by customer, 5 hours ago, Hassle free booking and instant…, Hassle free booking and instant discount over the booking. Payment process is very simple., Click to view the full review on Trustpilot" [ref=f5e316] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997d2070650b35a00d9c76e?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e317]:
+                    - generic [ref=f5e318]: Hassle free booking and instant…
+                    - generic [ref=f5e319]: Hassle free booking and instant discount over the booking. Payment process is very si...
+                    - generic [ref=f5e320]:
+                      - generic [ref=f5e321]: customer,
+                      - generic [ref=f5e322]: 5 hours ago
+              - listitem [ref=f5e323]:
+                - generic [ref=f5e324]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e329]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e351] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e352]:
+                      - img [ref=f5e356]
+                      - generic [ref=f5e358]: Verified
+                - link "Review by customer Smita Singh, 6 hours ago, Hassle free booking at competitive rates, Hassle free booking at extremely competitive rates. Has my recommendation. , Click to view the full review on Trustpilot" [ref=f5e359] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997c9433e8387cbaf50cc22?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e360]:
+                    - generic [ref=f5e361]: Hassle free booking at competitive rates
+                    - generic [ref=f5e362]: Hassle free booking at extremely competitive rates. Has my recommendation.
+                    - generic [ref=f5e363]:
+                      - generic [ref=f5e364]: customer Smita Singh,
+                      - generic [ref=f5e365]: 6 hours ago
+              - listitem [ref=f5e366]:
+                - generic [ref=f5e367]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e372]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e394] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e395]:
+                      - img [ref=f5e399]
+                      - generic [ref=f5e401]: Verified
+                - link "Review by customer, 6 hours ago, Keep it up , Keep it up We appreciate your services , Click to view the full review on Trustpilot" [ref=f5e402] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997c8ea17995f2ef1a4e90c?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e403]:
+                    - generic [ref=f5e404]: Keep it up
+                    - generic [ref=f5e405]: Keep it up We appreciate your services
+                    - generic [ref=f5e406]:
+                      - generic [ref=f5e407]: customer,
+                      - generic [ref=f5e408]: 6 hours ago
+              - listitem [ref=f5e409]:
+                - generic [ref=f5e410]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e415]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e437] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e438]:
+                      - img [ref=f5e442]
+                      - generic [ref=f5e444]: Verified
+                - link "Review by Ravi Bhushan, 8 hours ago, Good , Good opportunity to book the ticket , Click to view the full review on Trustpilot" [ref=f5e445] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997b023b26e874c14f8574d?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e446]:
+                    - generic [ref=f5e447]: Good
+                    - generic [ref=f5e448]: Good opportunity to book the ticket
+                    - generic [ref=f5e449]:
+                      - generic [ref=f5e450]: Ravi Bhushan,
+                      - generic [ref=f5e451]: 8 hours ago
+              - listitem [ref=f5e452]:
+                - generic [ref=f5e453]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e458]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e480] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e481]:
+                      - img [ref=f5e485]
+                      - generic [ref=f5e487]: Verified
+                - link "Review by customer, 9 hours ago, Good price , Good price No convenience fee Easy booking, Click to view the full review on Trustpilot" [ref=f5e488] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997a2c27ab807f527b4e783?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e489]:
+                    - generic [ref=f5e490]: Good price
+                    - generic [ref=f5e491]: Good price No convenience fee Easy booking
+                    - generic [ref=f5e492]:
+                      - generic [ref=f5e493]: customer,
+                      - generic [ref=f5e494]: 9 hours ago
+              - listitem [ref=f5e495]:
+                - generic [ref=f5e496]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e501]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e523] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e524]:
+                      - img [ref=f5e528]
+                      - generic [ref=f5e530]: Verified
+                - link "Review by Abhijeet Ghoshal, 13 hours ago, Best site for my bookings, Best site for my bookings, Click to view the full review on Trustpilot" [ref=f5e531] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/69976f205bb28d1edad74763?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e532]:
+                    - generic [ref=f5e533]: Best site for my bookings
+                    - generic [ref=f5e534]: Best site for my bookings
+                    - generic [ref=f5e535]:
+                      - generic [ref=f5e536]: Abhijeet Ghoshal,
+                      - generic [ref=f5e537]: 13 hours ago
+              - listitem [ref=f5e538]:
+                - generic [ref=f5e539]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e544]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e566] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e567]:
+                      - img [ref=f5e571]
+                      - generic [ref=f5e573]: Verified
+                - link "Review by customer, 13 hours ago, Perfectly informative & user friendly., Perfectly informative & user friendly., Click to view the full review on Trustpilot" [ref=f5e574] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/699762d500a6f9995819c04a?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e575]:
+                    - generic [ref=f5e576]: Perfectly informative & user friendly.
+                    - generic [ref=f5e577]: Perfectly informative & user friendly.
+                    - generic [ref=f5e578]:
+                      - generic [ref=f5e579]: customer,
+                      - generic [ref=f5e580]: 13 hours ago
+              - listitem [ref=f5e581]:
+                - generic [ref=f5e582]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e587]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e609] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e610]:
+                      - img [ref=f5e614]
+                      - generic [ref=f5e616]: Verified
+                - link "Review by Cyriac Joseph, 14 hours ago, Great offers for booking flight tickets, Great offers for booking flight tickets, Click to view the full review on Trustpilot" [ref=f5e617] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/6997613186a40d399a181025?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e618]:
+                    - generic [ref=f5e619]: Great offers for booking flight tickets
+                    - generic [ref=f5e620]: Great offers for booking flight tickets
+                    - generic [ref=f5e621]:
+                      - generic [ref=f5e622]: Cyriac Joseph,
+                      - generic [ref=f5e623]: 14 hours ago
+              - listitem [ref=f5e624]:
+                - generic [ref=f5e625]:
+                  - img "5 out of 5 star rating on Trustpilot" [ref=f5e630]
+                  - link "Verified review. Click to learn more about review types" [ref=f5e652] [cursor=pointer]:
+                    - /url: https://help.trustpilot.com/s/article/How-do-reviews-get-on-Trustpilot?language=en_US
+                    - generic [ref=f5e653]:
+                      - img [ref=f5e657]
+                      - generic [ref=f5e659]: Verified
+                - link "Review by customer, 14 hours ago, Outstanding Supporting , Outstanding Supporting And service Very satisfied 4th time repeating easemytrip transaction , Click to view the full review on Trustpilot" [ref=f5e660] [cursor=pointer]:
+                  - /url: https://www.trustpilot.com/reviews/699760876eed70926fc1115a?utm_medium=trustbox&utm_source=Slider
+                  - generic [ref=f5e661]:
+                    - generic [ref=f5e662]: Outstanding Supporting
+                    - generic [ref=f5e663]: Outstanding Supporting And service Very satisfied 4th time repeating easemytrip tr...
+                    - generic [ref=f5e664]:
+                      - generic [ref=f5e665]: customer,
+                      - generic [ref=f5e666]: 14 hours ago
+        - link "Trustpilot reviews. Rated 3.5 out of 5 based on 18,640 reviews on Trustpilot. Click to view the company’s Trustpilot profile." [ref=f5e668] [cursor=pointer]:
+          - /url: https://www.trustpilot.com/review/easemytrip.com?utm_medium=trustbox&utm_source=Slider
+          - generic [ref=f5e669]:
+            - generic [ref=f5e670]:
+              - text: Rated
+              - strong [ref=f5e671]: "3.5"
+              - text: / 5 based on
+              - strong [ref=f5e672]: 18,640 reviews
+              - text: .
+            - generic [ref=f5e673]:
+              - generic [ref=f5e674]: Showing our 5 star reviews
+              - text: .
+          - img "Trustpilot" [ref=f5e678]
+  - generic [ref=e799]:
+    - generic [ref=e801]: Search Flights, Hotels, Bus and Holiday Packages
+    - generic [ref=e802]: EaseMyTrip is one of the largest online travel platforms in India, and a trusted name in the Indian travel industry. We offer "end to end" travel solutions including air tickets, hotel booking, cab and bus booking, train tickets and holiday packages. Additionally, we offer ancillary value-added services.
+    - generic [ref=e803]: We understand that planning a trip can be overwhelming, so we have simplified the process to make it easy for you to find the perfect travel deals that suit your needs. Our website is user-friendly and provides a wide range of options to choose from. Whether you're planning a family vacation, a solo adventure, or a business trip, we have you covered with our comprehensive travel packages. From flights to hotels, car rentals to holiday packages, we offer everything you need to make your trip a success.
+    - generic [ref=e804]: We believe in transparency and honesty in all our dealings. We do not charge any hidden fees, and our prices are always competitive. With EaseMyTrip, you can be assured of getting the best travel deals in the market. If you're looking for a hassle-free and affordable way to plan your next trip, look no further than EaseMyTrip. We promise to make your travel experience a memorable one.
+  - generic [ref=e805]:
+    - generic [ref=e808]:
+      - generic [ref=e809]:
+        - list [ref=e811]:
+          - listitem [ref=e812] [cursor=pointer]: OUR OFFERINGS
+          - listitem [ref=e813] [cursor=pointer]: QUICK LINKS
+          - listitem [ref=e814] [cursor=pointer]: POPULAR DESTINATION
+          - listitem [ref=e815] [cursor=pointer]: INTERNATIONAL DESTINATION
+          - listitem [ref=e816] [cursor=pointer]: POPULAR AIRLINE
+          - listitem [ref=e817] [cursor=pointer]: CONNECT WITH US
+          - listitem [ref=e818] [cursor=pointer]: OFFERS
+          - listitem [ref=e819] [cursor=pointer]: EMT INSIGHTS
+          - listitem [ref=e820] [cursor=pointer]: MEDIA
+          - link "INVESTOR RELATIONS" [ref=e821] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/investor-relations.html
+          - link "CURRENT OPENINGS" [ref=e822] [cursor=pointer]:
+            - /url: https://www.easemytrip.com/career.html
+        - generic [ref=e824]:
+          - paragraph [ref=e825]: Make your travel easy with a wide range of products and services.
+          - list [ref=e827]:
+            - listitem [ref=e828]:
+              - link "Flights" [ref=e829] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/flights/
+            - listitem [ref=e830]:
+              - link "Hotels" [ref=e831] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/hotels/
+            - listitem [ref=e832]:
+              - link "Trains" [ref=e833] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/railways/
+            - listitem [ref=e834]:
+              - link "Holidays" [ref=e835] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/holidays/
+            - listitem [ref=e836]:
+              - link "Bus" [ref=e837] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/bus/
+            - listitem [ref=e838]:
+              - link "Cabs" [ref=e839] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/cabs/
+            - listitem [ref=e840]:
+              - link "Airlines" [ref=e841] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/directory/airlines.html
+            - listitem [ref=e842]:
+              - link "Airports" [ref=e843] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/directory/airports-in-india.html
+            - listitem [ref=e844]:
+              - link "Travel Guides" [ref=e845] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/travel-guides.html
+            - listitem [ref=e846]:
+              - link "Check PNR Status" [ref=e847] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/railways/pnr-status/
+            - listitem [ref=e848]:
+              - link "EMT PRO" [ref=e849] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/JoinEMTPro
+            - listitem [ref=e850]:
+              - link "Activities" [ref=e851] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/activities/
+            - listitem [ref=e852]:
+              - link "Travel Updates" [ref=e853] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/travel-updates.html
+            - listitem [ref=e854]:
+              - link "Corporate Travel" [ref=e855] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/corporate
+            - listitem [ref=e856]:
+              - link "Blog" [ref=e857] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/blog
+            - listitem [ref=e858]:
+              - link "Flight Check-in" [ref=e859] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/flights/web-check-in/
+            - listitem [ref=e860]:
+              - link "VIP Cabs" [ref=e861] [cursor=pointer]:
+                - /url: https://www.easemytrip.com/bookvipcabs.html
+                - text: VIP Cabs
+      - generic [ref=e863]:
+        - generic [ref=e864]:
+          - img "EaseMyTrip Logo" [ref=e866]
+          - paragraph [ref=e868]: EaseMyTrip offers 'End to End' travel solutions including air tickets for more than 400 international and domestic airlines, hotel bookings for nearly 1 million hotels in India and abroad, cab booking with 4000+ cab operators, bus tickets with 2000+ bus operators, and railway tickets in India for all major cities.
+        - generic [ref=e869]:
+          - generic [ref=e870]: Download EaseMyTrip App
+          - generic [ref=e872]:
+            - link "Google Play" [ref=e874] [cursor=pointer]:
+              - /url: //play.google.com/store/apps/details?id=com.easemytrip.android
+              - img "Google Play" [ref=e875]
+            - link "App Store" [ref=e877] [cursor=pointer]:
+              - /url: https://itunes.apple.com/in/app/easemytrip-flight-booking/id1053030595?mt=8
+              - img "App Store" [ref=e878]
+        - generic [ref=e879]:
+          - generic [ref=e880]: SCAN QR CODE
+          - img "Scan QR" [ref=e884]
+    - generic [ref=e885]:
+      - generic [ref=e886]: Copyright © 2026 EaseMyTrip
+      - img "IATA Code" [ref=e888]
+```
